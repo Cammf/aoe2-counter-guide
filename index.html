@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AoE2 Unit Counter Guide</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Age of Empires II &mdash; Unit Counter Guide</h1>
+    <p class="subtitle">Select your civilisation and the enemy unit you want to counter</p>
+  </header>
+
+  <main>
+    <section class="selectors">
+      <div class="selector-group">
+        <label for="civ-select">Your Civilisation</label>
+        <select id="civ-select">
+          <option value="">-- Choose Civilisation --</option>
+        </select>
+        <div id="civ-bonuses" class="civ-bonuses"></div>
+      </div>
+
+      <div class="selector-group">
+        <label for="enemy-unit-select">Enemy Unit to Counter</label>
+        <select id="enemy-unit-select">
+          <option value="">-- Choose Enemy Unit --</option>
+        </select>
+        <div id="enemy-unit-stats" class="unit-stats-preview"></div>
+      </div>
+    </section>
+
+    <section id="results" class="results hidden">
+      <h2>Recommended Counters</h2>
+      <div id="results-grid" class="results-grid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Data based on Age of Empires II: Definitive Edition. Stats are approximate and may vary with patches.</p>
+  </footer>
+
+  <script src="js/counters.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

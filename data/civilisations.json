@@ -1,0 +1,166 @@
+[
+  {
+    "id": "britons",
+    "name": "Britons",
+    "availableUnits": [
+      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
+      "spearman", "pikeman", "halberdier",
+      "archer", "crossbowman", "arbalester",
+      "skirmisher", "elite_skirmisher",
+      "cavalry_archer", "heavy_cav_archer",
+      "scout_cavalry", "light_cavalry",
+      "knight", "cavalier",
+      "monk",
+      "mangonel", "onager", "siege_ram", "scorpion"
+    ],
+    "bonuses": [
+      "Town Centers work 20% faster in Castle Age",
+      "Foot archers (except Skirmishers) have +1/+2 range in Castle/Imperial Age",
+      "Shepherds work 25% faster"
+    ]
+  },
+  {
+    "id": "franks",
+    "name": "Franks",
+    "availableUnits": [
+      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
+      "spearman", "pikeman", "halberdier",
+      "archer", "crossbowman",
+      "skirmisher", "elite_skirmisher",
+      "cavalry_archer",
+      "scout_cavalry", "light_cavalry",
+      "knight", "cavalier", "paladin",
+      "monk",
+      "mangonel", "onager", "siege_ram", "scorpion"
+    ],
+    "bonuses": [
+      "Cavalry have +20% HP",
+      "Farm upgrades are free",
+      "Castles are 25% cheaper"
+    ]
+  },
+  {
+    "id": "teutons",
+    "name": "Teutons",
+    "availableUnits": [
+      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
+      "spearman", "pikeman", "halberdier",
+      "archer", "crossbowman",
+      "skirmisher", "elite_skirmisher",
+      "cavalry_archer",
+      "scout_cavalry", "light_cavalry",
+      "knight", "cavalier", "paladin",
+      "monk",
+      "mangonel", "onager", "siege_ram", "scorpion"
+    ],
+    "bonuses": [
+      "Monks have double healing range",
+      "Towers can garrison twice as many units",
+      "Farms are 40% cheaper",
+      "Town Centers can garrison +10 units"
+    ]
+  },
+  {
+    "id": "mongols",
+    "name": "Mongols",
+    "availableUnits": [
+      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman",
+      "spearman", "pikeman",
+      "archer", "crossbowman", "arbalester",
+      "skirmisher", "elite_skirmisher",
+      "cavalry_archer", "heavy_cav_archer",
+      "scout_cavalry", "light_cavalry", "hussar",
+      "knight", "cavalier",
+      "monk",
+      "mangonel", "onager", "siege_ram", "scorpion"
+    ],
+    "bonuses": [
+      "Cavalry archers fire 25% faster",
+      "Light Cavalry and Hussars have +30% HP",
+      "Hunters work 40% faster"
+    ]
+  },
+  {
+    "id": "byzantines",
+    "name": "Byzantines",
+    "availableUnits": [
+      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
+      "spearman", "pikeman", "halberdier",
+      "archer", "crossbowman", "arbalester",
+      "skirmisher", "elite_skirmisher",
+      "cavalry_archer", "heavy_cav_archer",
+      "scout_cavalry", "light_cavalry", "hussar",
+      "knight", "cavalier", "paladin",
+      "camel_rider", "heavy_camel_rider",
+      "monk",
+      "mangonel", "onager", "siege_ram", "scorpion"
+    ],
+    "bonuses": [
+      "Camels, Skirmishers, Spearmen, Pikemen, Halberdiers cost 25% less",
+      "Fire Ships +20% attack",
+      "Advance to Imperial Age costs -33%",
+      "Town buildings have +10%/+20%/+30%/+40% HP in Dark/Feudal/Castle/Imperial"
+    ]
+  },
+  {
+    "id": "saracens",
+    "name": "Saracens",
+    "availableUnits": [
+      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
+      "spearman", "pikeman",
+      "archer", "crossbowman", "arbalester",
+      "skirmisher", "elite_skirmisher",
+      "cavalry_archer", "heavy_cav_archer",
+      "scout_cavalry", "light_cavalry", "hussar",
+      "knight", "cavalier",
+      "camel_rider", "heavy_camel_rider",
+      "monk",
+      "mangonel", "onager", "siege_ram", "scorpion"
+    ],
+    "bonuses": [
+      "Market trade costs only 5%",
+      "Cavalry archers have +4 attack vs buildings",
+      "Monks heal 50% faster"
+    ]
+  },
+  {
+    "id": "celts",
+    "name": "Celts",
+    "availableUnits": [
+      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
+      "spearman", "pikeman", "halberdier",
+      "archer", "crossbowman",
+      "skirmisher", "elite_skirmisher",
+      "scout_cavalry", "light_cavalry", "hussar",
+      "knight", "cavalier", "paladin",
+      "monk",
+      "mangonel", "onager", "siege_ram", "scorpion"
+    ],
+    "bonuses": [
+      "Infantry move 15% faster",
+      "Lumberjacks work 15% faster",
+      "Siege weapons fire 25% faster",
+      "Enemy herdables can be converted"
+    ]
+  },
+  {
+    "id": "japanese",
+    "name": "Japanese",
+    "availableUnits": [
+      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
+      "spearman", "pikeman", "halberdier",
+      "archer", "crossbowman", "arbalester",
+      "skirmisher", "elite_skirmisher",
+      "cavalry_archer", "heavy_cav_archer",
+      "scout_cavalry", "light_cavalry",
+      "knight", "cavalier",
+      "monk",
+      "mangonel", "onager", "siege_ram", "scorpion"
+    ],
+    "bonuses": [
+      "Infantry attack 33% faster",
+      "Fishing Ships have double HP and +2 pierce armor",
+      "Mills, Lumber Camps, Mining Camps are 50% cheaper"
+    ]
+  }
+]
