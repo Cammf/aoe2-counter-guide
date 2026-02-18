@@ -1,0 +1,3711 @@
+{
+  "10": {
+    "cost": {
+      "Food": 600,
+      "Gold": 650
+    },
+    "id": 10,
+    "internalName": "Turkish Artillery",
+    "name": "Artillery",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "artillery",
+    "type": "tech"
+  },
+  "1006": {
+    "cost": {
+      "Food": 450,
+      "Gold": 300
+    },
+    "id": 1006,
+    "internalName": "Lamellar Armor",
+    "name": "Lamellar Armor",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "lamellar_armor",
+    "type": "tech"
+  },
+  "1007": {
+    "cost": {
+      "Food": 600,
+      "Gold": 300
+    },
+    "id": 1007,
+    "internalName": "Ordo Cavalry",
+    "name": "Ordo Cavalry",
+    "repeatable": false,
+    "researchTime": 45,
+    "slug": "ordo_cavalry",
+    "type": "tech"
+  },
+  "101": {
+    "cost": {
+      "Food": 500
+    },
+    "id": 101,
+    "internalName": "Middle Age",
+    "name": "Feudal Age",
+    "repeatable": false,
+    "researchTime": 130,
+    "slug": "feudal_age",
+    "type": "tech"
+  },
+  "1012": {
+    "cost": {
+      "Food": 175,
+      "Wood": 325
+    },
+    "id": 1012,
+    "internalName": "Grazing Grasslands",
+    "name": "Transhumance",
+    "repeatable": true,
+    "researchTime": 70,
+    "slug": "transhumance",
+    "type": "tech"
+  },
+  "1013": {
+    "cost": {
+      "Food": 100,
+      "Wood": 150
+    },
+    "id": 1013,
+    "internalName": "Enclosures",
+    "name": "Pastoralism",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "pastoralism",
+    "type": "tech"
+  },
+  "1014": {
+    "cost": {
+      "Food": 50,
+      "Wood": 100
+    },
+    "id": 1014,
+    "internalName": "Livestock Husbandry",
+    "name": "Domestication",
+    "repeatable": true,
+    "researchTime": 20,
+    "slug": "domestication",
+    "type": "tech"
+  },
+  "102": {
+    "cost": {
+      "Food": 800,
+      "Gold": 200
+    },
+    "id": 102,
+    "internalName": "Feudal Age",
+    "name": "Castle Age",
+    "repeatable": false,
+    "researchTime": 160,
+    "slug": "castle_age",
+    "type": "tech"
+  },
+  "103": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 800
+    },
+    "id": 103,
+    "internalName": "Imperial Age",
+    "name": "Imperial Age",
+    "repeatable": false,
+    "researchTime": 190,
+    "slug": "imperial_age",
+    "type": "tech"
+  },
+  "1061": {
+    "cost": {
+      "Food": 250,
+      "Wood": 300
+    },
+    "id": 1061,
+    "internalName": "Tuntian",
+    "name": "Tuntian",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "tuntian",
+    "type": "tech"
+  },
+  "1062": {
+    "cost": {
+      "Food": 600,
+      "Gold": 450
+    },
+    "id": 1062,
+    "internalName": "Ming-Kuang Armor",
+    "name": "Ming Guang Armor",
+    "repeatable": true,
+    "researchTime": 65,
+    "slug": "ming_guang_armor",
+    "type": "tech"
+  },
+  "1069": {
+    "cost": {
+      "Food": 650,
+      "Gold": 750
+    },
+    "id": 1069,
+    "internalName": "Bolt Magazine",
+    "name": "Bolt Magazine",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "bolt_magazine",
+    "type": "tech"
+  },
+  "1070": {
+    "cost": {
+      "Food": 350,
+      "Gold": 300
+    },
+    "id": 1070,
+    "internalName": "Coiled Serpent Array",
+    "name": "Coiled Serpent Array",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "coiled_serpent_array",
+    "type": "tech"
+  },
+  "1080": {
+    "cost": {
+      "Food": 400,
+      "Gold": 250
+    },
+    "id": 1080,
+    "internalName": "Red Cliffs Tactics",
+    "name": "Red Cliffs Tactics",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "red_cliffs_tactics",
+    "type": "tech"
+  },
+  "1081": {
+    "cost": {
+      "Gold": 300,
+      "Wood": 600
+    },
+    "id": 1081,
+    "internalName": "Ming-Kuang Armor",
+    "name": "Sitting Tiger",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "sitting_tiger",
+    "type": "tech"
+  },
+  "11": {
+    "cost": {
+      "Food": 600,
+      "Stone": 400
+    },
+    "id": 11,
+    "internalName": "Teuton Crenellations",
+    "name": "Crenellations",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "crenellations",
+    "type": "tech"
+  },
+  "12": {
+    "cost": {
+      "Food": 250,
+      "Wood": 250
+    },
+    "id": 12,
+    "internalName": "Crop rotation",
+    "name": "Crop Rotation",
+    "repeatable": true,
+    "researchTime": 70,
+    "slug": "crop_rotation",
+    "type": "tech"
+  },
+  "13": {
+    "cost": {
+      "Food": 125,
+      "Wood": 125
+    },
+    "id": 13,
+    "internalName": "Heavy plow",
+    "name": "Heavy Plow",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "heavy_plow",
+    "type": "tech"
+  },
+  "14": {
+    "cost": {
+      "Food": 75,
+      "Wood": 75
+    },
+    "id": 14,
+    "internalName": "Horse collar",
+    "name": "Horse Collar",
+    "repeatable": true,
+    "researchTime": 20,
+    "slug": "horse_collar",
+    "type": "tech"
+  },
+  "140": {
+    "cost": {
+      "Food": 100,
+      "Wood": 250
+    },
+    "id": 140,
+    "internalName": "Guard Tower",
+    "name": "Guard Tower",
+    "repeatable": true,
+    "researchTime": 30,
+    "slug": "guard_tower",
+    "type": "tech"
+  },
+  "15": {
+    "cost": {
+      "Food": 300,
+      "Gold": 200
+    },
+    "id": 15,
+    "internalName": "Guilds",
+    "name": "Guilds",
+    "repeatable": false,
+    "researchTime": 50,
+    "slug": "guilds",
+    "type": "tech"
+  },
+  "16": {
+    "cost": {
+      "Food": 450,
+      "Gold": 250
+    },
+    "id": 16,
+    "internalName": "Gothic Anarchy",
+    "name": "Anarchy",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "anarchy",
+    "type": "tech"
+  },
+  "17": {
+    "cost": {
+      "Food": 300,
+      "Gold": 200
+    },
+    "id": 17,
+    "internalName": "Banking",
+    "name": "Banking",
+    "repeatable": false,
+    "researchTime": 70,
+    "slug": "banking",
+    "type": "tech"
+  },
+  "182": {
+    "cost": {
+      "Food": 175,
+      "Wood": 75
+    },
+    "id": 182,
+    "internalName": "Gold Shaft Mining",
+    "name": "Gold Shaft Mining",
+    "repeatable": true,
+    "researchTime": 75,
+    "slug": "gold_shaft_mining",
+    "type": "tech"
+  },
+  "19": {
+    "cost": {
+      "Food": 0,
+      "Gold": 0
+    },
+    "id": 19,
+    "internalName": "Cartography",
+    "name": "Cartography",
+    "repeatable": true,
+    "researchTime": 1,
+    "slug": "cartography",
+    "type": "tech"
+  },
+  "194": {
+    "cost": {
+      "Food": 200,
+      "Wood": 100
+    },
+    "id": 194,
+    "internalName": "Fortified Wall",
+    "name": "Fortified Wall",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "fortified_wall",
+    "type": "tech"
+  },
+  "199": {
+    "cost": {
+      "Food": 100,
+      "Gold": 50
+    },
+    "id": 199,
+    "internalName": "Fletching",
+    "name": "Fletching",
+    "repeatable": true,
+    "researchTime": 30,
+    "slug": "fletching",
+    "type": "tech"
+  },
+  "200": {
+    "cost": {
+      "Food": 200,
+      "Gold": 100
+    },
+    "id": 200,
+    "internalName": "Bodkin Arrow",
+    "name": "Bodkin Arrow",
+    "repeatable": true,
+    "researchTime": 35,
+    "slug": "bodkin_arrow",
+    "type": "tech"
+  },
+  "201": {
+    "cost": {
+      "Food": 300,
+      "Gold": 200
+    },
+    "id": 201,
+    "internalName": "Bracer",
+    "name": "Bracer",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "bracer",
+    "type": "tech"
+  },
+  "202": {
+    "cost": {
+      "Food": 100,
+      "Wood": 50
+    },
+    "id": 202,
+    "internalName": "Double Bit Axe",
+    "name": "Double-Bit Axe",
+    "repeatable": true,
+    "researchTime": 25,
+    "slug": "double_bit_axe",
+    "type": "tech"
+  },
+  "203": {
+    "cost": {
+      "Food": 150,
+      "Wood": 100
+    },
+    "id": 203,
+    "internalName": "Bow Saw",
+    "name": "Bow Saw",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "bow_saw",
+    "type": "tech"
+  },
+  "21": {
+    "cost": {
+      "Food": 500,
+      "Wood": 300
+    },
+    "id": 21,
+    "internalName": "Hun Atheism",
+    "name": "Atheism",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "atheism",
+    "type": "tech"
+  },
+  "211": {
+    "cost": {
+      "Food": 100
+    },
+    "id": 211,
+    "internalName": "Padded Archer Armor",
+    "name": "Padded Archer Armor",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "padded_archer_armor",
+    "type": "tech"
+  },
+  "212": {
+    "cost": {
+      "Food": 150,
+      "Gold": 150
+    },
+    "id": 212,
+    "internalName": "Leather Archer Armor",
+    "name": "Leather Archer Armor",
+    "repeatable": true,
+    "researchTime": 55,
+    "slug": "leather_archer_armor",
+    "type": "tech"
+  },
+  "213": {
+    "cost": {
+      "Food": 175,
+      "Wood": 50
+    },
+    "id": 213,
+    "internalName": "Wheel Barrow",
+    "name": "Wheelbarrow",
+    "repeatable": true,
+    "researchTime": 75,
+    "slug": "wheelbarrow",
+    "type": "tech"
+  },
+  "215": {
+    "cost": {
+      "Food": 100
+    },
+    "id": 215,
+    "internalName": "Squires",
+    "name": "Squires",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "squires",
+    "type": "tech"
+  },
+  "219": {
+    "cost": {
+      "Food": 250,
+      "Gold": 250
+    },
+    "id": 219,
+    "internalName": "Ring Archer Armor",
+    "name": "Ring Archer Armor",
+    "repeatable": true,
+    "researchTime": 70,
+    "slug": "ring_archer_armor",
+    "type": "tech"
+  },
+  "22": {
+    "cost": {
+      "Gold": 50
+    },
+    "id": 22,
+    "internalName": "Loom",
+    "name": "Loom",
+    "repeatable": true,
+    "researchTime": 25,
+    "slug": "loom",
+    "type": "tech"
+  },
+  "221": {
+    "cost": {
+      "Food": 300,
+      "Wood": 200
+    },
+    "id": 221,
+    "internalName": "Two Man Saw",
+    "name": "Two-Man Saw",
+    "repeatable": true,
+    "researchTime": 100,
+    "slug": "two_man_saw",
+    "type": "tech"
+  },
+  "23": {
+    "cost": {
+      "Food": 200,
+      "Gold": 100
+    },
+    "id": 23,
+    "internalName": "Coinage",
+    "name": "Coinage",
+    "repeatable": false,
+    "researchTime": 70,
+    "slug": "coinage",
+    "type": "tech"
+  },
+  "230": {
+    "cost": {
+      "Food": 0,
+      "Gold": 200
+    },
+    "id": 230,
+    "internalName": "Block Printing",
+    "name": "Block Printing",
+    "repeatable": true,
+    "researchTime": 55,
+    "slug": "block_printing",
+    "type": "tech"
+  },
+  "231": {
+    "cost": {
+      "Food": 0,
+      "Gold": 175
+    },
+    "id": 231,
+    "internalName": "Sanctity",
+    "name": "Sanctity",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "sanctity",
+    "type": "tech"
+  },
+  "233": {
+    "cost": {
+      "Food": 0,
+      "Gold": 120
+    },
+    "id": 233,
+    "internalName": "Illumination",
+    "name": "Illumination",
+    "repeatable": true,
+    "researchTime": 65,
+    "slug": "illumination",
+    "type": "tech"
+  },
+  "24": {
+    "cost": {
+      "Food": 450,
+      "Gold": 750
+    },
+    "id": 24,
+    "internalName": "Aztec Garland Wars",
+    "name": "Garland Wars",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "garland_wars",
+    "type": "tech"
+  },
+  "249": {
+    "cost": {
+      "Food": 300,
+      "Wood": 200
+    },
+    "id": 249,
+    "internalName": "Hand Cart",
+    "name": "Hand Cart",
+    "repeatable": true,
+    "researchTime": 55,
+    "slug": "hand_cart",
+    "type": "tech"
+  },
+  "252": {
+    "cost": {
+      "Food": 0,
+      "Gold": 140
+    },
+    "id": 252,
+    "internalName": "Fervor",
+    "name": "Fervor",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "fervor",
+    "type": "tech"
+  },
+  "278": {
+    "cost": {
+      "Food": 100,
+      "Wood": 75
+    },
+    "id": 278,
+    "internalName": "Stone Mining",
+    "name": "Stone Mining",
+    "repeatable": true,
+    "researchTime": 30,
+    "slug": "stone_mining",
+    "type": "tech"
+  },
+  "279": {
+    "cost": {
+      "Food": 175,
+      "Wood": 75
+    },
+    "id": 279,
+    "internalName": "Stone Shaft Mining",
+    "name": "Stone Shaft Mining",
+    "repeatable": true,
+    "researchTime": 75,
+    "slug": "stone_shaft_mining",
+    "type": "tech"
+  },
+  "28": {
+    "cost": {
+      "Gold": 200,
+      "Wood": 300
+    },
+    "id": 28,
+    "internalName": "Bimaristan",
+    "name": "Bimaristan",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "bimaristan",
+    "type": "tech"
+  },
+  "280": {
+    "cost": {
+      "Food": 300,
+      "Gold": 100
+    },
+    "id": 280,
+    "internalName": "Town Patrol",
+    "name": "Town Patrol",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "town_patrol",
+    "type": "tech"
+  },
+  "3": {
+    "cost": {
+      "Gold": 450,
+      "Wood": 750
+    },
+    "id": 3,
+    "internalName": "British Yeoman",
+    "name": "Yeomen",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "yeomen",
+    "type": "tech"
+  },
+  "315": {
+    "cost": {
+      "Food": 150,
+      "Gold": 150
+    },
+    "id": 315,
+    "internalName": "Conscription",
+    "name": "Conscription",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "conscription",
+    "type": "tech"
+  },
+  "316": {
+    "cost": {
+      "Food": 0,
+      "Gold": 475
+    },
+    "id": 316,
+    "internalName": "Redemption",
+    "name": "Redemption",
+    "repeatable": false,
+    "researchTime": 50,
+    "slug": "redemption",
+    "type": "tech"
+  },
+  "319": {
+    "cost": {
+      "Food": 0,
+      "Gold": 325
+    },
+    "id": 319,
+    "internalName": "Atonement",
+    "name": "Atonement",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "atonement",
+    "type": "tech"
+  },
+  "321": {
+    "cost": {
+      "Food": 400,
+      "Wood": 200
+    },
+    "id": 321,
+    "internalName": "Sappers",
+    "name": "Sappers",
+    "repeatable": true,
+    "researchTime": 10,
+    "slug": "sappers",
+    "type": "tech"
+  },
+  "322": {
+    "cost": {
+      "Food": 200,
+      "Stone": 100
+    },
+    "id": 322,
+    "internalName": "Murder Holes",
+    "name": "Murder Holes",
+    "repeatable": false,
+    "researchTime": 35,
+    "slug": "murder_holes",
+    "type": "tech"
+  },
+  "373": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 300
+    },
+    "id": 373,
+    "internalName": "Shipwright",
+    "name": "Shipwright",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "shipwright",
+    "type": "tech"
+  },
+  "374": {
+    "cost": {
+      "Food": 250,
+      "Gold": 150
+    },
+    "id": 374,
+    "internalName": "Careening",
+    "name": "Careening",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "careening",
+    "type": "tech"
+  },
+  "375": {
+    "cost": {
+      "Food": 600,
+      "Gold": 400
+    },
+    "id": 375,
+    "internalName": "Dry Dock",
+    "name": "Dry Dock",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "dry_dock",
+    "type": "tech"
+  },
+  "377": {
+    "cost": {
+      "Food": 500,
+      "Wood": 600
+    },
+    "id": 377,
+    "internalName": "Siege Engineers",
+    "name": "Siege Engineers",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "siege_engineers",
+    "type": "tech"
+  },
+  "379": {
+    "cost": {
+      "Food": 400,
+      "Wood": 400
+    },
+    "id": 379,
+    "internalName": "Hoardings",
+    "name": "Hoardings",
+    "repeatable": true,
+    "researchTime": 75,
+    "slug": "hoardings",
+    "type": "tech"
+  },
+  "380": {
+    "cost": {
+      "Food": 350,
+      "Gold": 100
+    },
+    "id": 380,
+    "internalName": "Heated Shot",
+    "name": "Heated Shot",
+    "repeatable": true,
+    "researchTime": 30,
+    "slug": "heated_shot",
+    "type": "tech"
+  },
+  "39": {
+    "cost": {
+      "Food": 150
+    },
+    "id": 39,
+    "internalName": "Husbandry",
+    "name": "Husbandry",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "husbandry",
+    "type": "tech"
+  },
+  "4": {
+    "cost": {
+      "Food": 750,
+      "Gold": 450
+    },
+    "id": 4,
+    "internalName": "Mayan El Dorado",
+    "name": "El Dorado",
+    "repeatable": true,
+    "researchTime": 70,
+    "slug": "el_dorado",
+    "type": "tech"
+  },
+  "408": {
+    "cost": {
+      "Gold": 200
+    },
+    "id": 408,
+    "internalName": "Spy Technology",
+    "name": "Spies/Treason",
+    "repeatable": false,
+    "researchTime": 1,
+    "slug": "spies_treason",
+    "type": "tech"
+  },
+  "435": {
+    "cost": {
+      "Food": 150,
+      "Gold": 100
+    },
+    "id": 435,
+    "internalName": "Bloodlines",
+    "name": "Bloodlines",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "bloodlines",
+    "type": "tech"
+  },
+  "436": {
+    "cost": {
+      "Food": 200,
+      "Gold": 250
+    },
+    "id": 436,
+    "internalName": "Parthian Tactics",
+    "name": "Parthian Tactics",
+    "repeatable": true,
+    "researchTime": 65,
+    "slug": "parthian_tactics",
+    "type": "tech"
+  },
+  "437": {
+    "cost": {
+      "Food": 300,
+      "Wood": 250
+    },
+    "id": 437,
+    "internalName": "Thumb Ring",
+    "name": "Thumb Ring",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "thumb_ring",
+    "type": "tech"
+  },
+  "438": {
+    "cost": {
+      "Food": 0,
+      "Gold": 200
+    },
+    "id": 438,
+    "internalName": "Theocracy",
+    "name": "Theocracy",
+    "repeatable": false,
+    "researchTime": 75,
+    "slug": "theocracy",
+    "type": "tech"
+  },
+  "439": {
+    "cost": {
+      "Food": 0,
+      "Gold": 1000
+    },
+    "id": 439,
+    "internalName": "Heresy",
+    "name": "Heresy",
+    "repeatable": false,
+    "researchTime": 60,
+    "slug": "heresy",
+    "type": "tech"
+  },
+  "440": {
+    "cost": {
+      "Food": 400,
+      "Gold": 250
+    },
+    "id": 440,
+    "internalName": "Spanish Supremacy",
+    "name": "Supremacy",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "supremacy",
+    "type": "tech"
+  },
+  "441": {
+    "cost": {
+      "Food": 0,
+      "Gold": 200
+    },
+    "id": 441,
+    "internalName": "Herbal Medicine",
+    "name": "Herbal Medicine",
+    "repeatable": true,
+    "researchTime": 35,
+    "slug": "herbal_medicine",
+    "type": "tech"
+  },
+  "445": {
+    "cost": {
+      "Food": 1100,
+      "Gold": 800
+    },
+    "id": 445,
+    "internalName": "Korean catapults",
+    "name": "Shinkichon",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "shinkichon",
+    "type": "tech"
+  },
+  "45": {
+    "cost": {
+      "Food": 550,
+      "Gold": 750
+    },
+    "id": 45,
+    "internalName": "Faith",
+    "name": "Faith",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "faith",
+    "type": "tech"
+  },
+  "454": {
+    "cost": {
+      "Food": 650,
+      "Gold": 500
+    },
+    "id": 454,
+    "internalName": "Counterweights",
+    "name": "Counterweights",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "counterweights",
+    "type": "tech"
+  },
+  "455": {
+    "cost": {
+      "Gold": 200,
+      "Wood": 400
+    },
+    "id": 455,
+    "internalName": "Detinets",
+    "name": "Detinets",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "detinets",
+    "type": "tech"
+  },
+  "457": {
+    "cost": {
+      "Gold": 600,
+      "Wood": 400
+    },
+    "id": 457,
+    "internalName": "Gothic Perfusion",
+    "name": "Perfusion",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "perfusion",
+    "type": "tech"
+  },
+  "46": {
+    "cost": {
+      "Food": 100,
+      "Gold": 200
+    },
+    "id": 46,
+    "internalName": "Devotion",
+    "name": "Devotion",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "devotion",
+    "type": "tech"
+  },
+  "460": {
+    "cost": {
+      "Food": 400,
+      "Gold": 350
+    },
+    "id": 460,
+    "internalName": "Aztec Sacrifice",
+    "name": "Atlatl",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "atlatl",
+    "type": "tech"
+  },
+  "461": {
+    "cost": {
+      "Gold": 400,
+      "Wood": 800
+    },
+    "id": 461,
+    "internalName": "Britons City Rights",
+    "name": "Warwolf",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "warwolf",
+    "type": "tech"
+  },
+  "462": {
+    "cost": {
+      "Stone": 200,
+      "Wood": 400
+    },
+    "id": 462,
+    "internalName": "Chinese Great Wall",
+    "name": "Great Wall",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "great_wall",
+    "type": "tech"
+  },
+  "463": {
+    "cost": {
+      "Food": 600,
+      "Gold": 450
+    },
+    "id": 463,
+    "internalName": "Viking Chieftains",
+    "name": "Chieftains",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "chieftains",
+    "type": "tech"
+  },
+  "464": {
+    "cost": {
+      "Food": 250,
+      "Gold": 300
+    },
+    "id": 464,
+    "internalName": "Byzantines Greek Fire",
+    "name": "Greek Fire",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "greek_fire",
+    "type": "tech"
+  },
+  "47": {
+    "cost": {
+      "Food": 300,
+      "Gold": 200
+    },
+    "id": 47,
+    "internalName": "Chemistry",
+    "name": "Chemistry",
+    "repeatable": true,
+    "researchTime": 100,
+    "slug": "chemistry",
+    "type": "tech"
+  },
+  "48": {
+    "cost": {
+      "Food": 200,
+      "Gold": 200
+    },
+    "id": 48,
+    "internalName": "Caravan",
+    "name": "Caravan",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "caravan",
+    "type": "tech"
+  },
+  "482": {
+    "cost": {
+      "Food": 250,
+      "Gold": 200
+    },
+    "id": 482,
+    "internalName": "Stronghold",
+    "name": "Stronghold",
+    "repeatable": true,
+    "researchTime": 30,
+    "slug": "stronghold",
+    "type": "tech"
+  },
+  "483": {
+    "cost": {
+      "Gold": 200,
+      "Wood": 300
+    },
+    "id": 483,
+    "internalName": "Huns UT",
+    "name": "Marauders",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "marauders",
+    "type": "tech"
+  },
+  "484": {
+    "cost": {
+      "Food": 300,
+      "Wood": 300
+    },
+    "id": 484,
+    "internalName": "Japanese UT",
+    "name": "Yasama",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "yasama",
+    "type": "tech"
+  },
+  "485": {
+    "cost": {
+      "Food": 300,
+      "Gold": 300
+    },
+    "id": 485,
+    "internalName": "Mayans UT",
+    "name": "Hul'che Javelineers",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "hulche_javelineers",
+    "type": "tech"
+  },
+  "486": {
+    "cost": {
+      "Food": 300,
+      "Wood": 300
+    },
+    "id": 486,
+    "internalName": "Koreans UT",
+    "name": "Eupseong",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "eupseong",
+    "type": "tech"
+  },
+  "487": {
+    "cost": {
+      "Gold": 150,
+      "Wood": 300
+    },
+    "id": 487,
+    "internalName": "Mongols UT",
+    "name": "Nomads",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "nomads",
+    "type": "tech"
+  },
+  "488": {
+    "cost": {
+      "Food": 400,
+      "Gold": 300
+    },
+    "id": 488,
+    "internalName": "Persians UT",
+    "name": "Kamandaran",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "kamandaran",
+    "type": "tech"
+  },
+  "489": {
+    "cost": {
+      "Gold": 350,
+      "Wood": 400
+    },
+    "id": 489,
+    "internalName": "Teutons UT",
+    "name": "Ironclad",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "ironclad",
+    "type": "tech"
+  },
+  "49": {
+    "cost": {
+      "Food": 650,
+      "Gold": 500
+    },
+    "id": 49,
+    "internalName": "Bogsveigar",
+    "name": "Bogsveigar",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "bogsveigar",
+    "type": "tech"
+  },
+  "491": {
+    "cost": {
+      "Food": 350,
+      "Gold": 150
+    },
+    "id": 491,
+    "internalName": "Sipahi",
+    "name": "Sipahi",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "sipahi",
+    "type": "tech"
+  },
+  "492": {
+    "cost": {
+      "Food": 100,
+      "Gold": 300
+    },
+    "id": 492,
+    "internalName": "Spanish UT",
+    "name": "Inquisition",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "inquisition",
+    "type": "tech"
+  },
+  "493": {
+    "cost": {
+      "Gold": 500,
+      "Wood": 600
+    },
+    "id": 493,
+    "internalName": "Franks UT",
+    "name": "Chivalry",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "chivalry",
+    "type": "tech"
+  },
+  "499": {
+    "cost": {
+      "Food": 250,
+      "Gold": 250
+    },
+    "id": 499,
+    "internalName": "Silk Route",
+    "name": "Silk Road",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "silk_road",
+    "type": "tech"
+  },
+  "5": {
+    "cost": {
+      "Food": 750,
+      "Gold": 450
+    },
+    "id": 5,
+    "internalName": "Celtic Furor Celtica",
+    "name": "Furor Celtica",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "furor_celtica",
+    "type": "tech"
+  },
+  "50": {
+    "cost": {
+      "Food": 150,
+      "Wood": 175
+    },
+    "id": 50,
+    "internalName": "Masonry",
+    "name": "Masonry",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "masonry",
+    "type": "tech"
+  },
+  "506": {
+    "cost": {
+      "Food": 250,
+      "Wood": 200
+    },
+    "id": 506,
+    "internalName": "Indians UT",
+    "name": "Grand Trunk Road",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "grand_trunk_road",
+    "type": "tech"
+  },
+  "507": {
+    "cost": {
+      "Food": 500,
+      "Gold": 650
+    },
+    "id": 507,
+    "internalName": "Indians UT2",
+    "name": "Shatagni",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "shatagni",
+    "type": "tech"
+  },
+  "51": {
+    "cost": {
+      "Food": 300,
+      "Wood": 200
+    },
+    "id": 51,
+    "internalName": "Architecture",
+    "name": "Architecture",
+    "repeatable": true,
+    "researchTime": 70,
+    "slug": "architecture",
+    "type": "tech"
+  },
+  "513": {
+    "cost": {
+      "Food": 900,
+      "Gold": 500
+    },
+    "id": 513,
+    "internalName": "Slavs UT",
+    "name": "Druzhina",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "druzhina",
+    "type": "tech"
+  },
+  "514": {
+    "cost": {
+      "Food": 200,
+      "Gold": 300
+    },
+    "id": 514,
+    "internalName": "Magyars UT",
+    "name": "Corvinian Army",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "corvinian_army",
+    "type": "tech"
+  },
+  "515": {
+    "cost": {
+      "Gold": 400,
+      "Wood": 600
+    },
+    "id": 515,
+    "internalName": "Indians UT",
+    "name": "Recurve Bow",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "recurve_bow",
+    "type": "tech"
+  },
+  "516": {
+    "cost": {
+      "Food": 200,
+      "Gold": 300
+    },
+    "id": 516,
+    "internalName": "Incas UT",
+    "name": "Andean Sling",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "andean_sling",
+    "type": "tech"
+  },
+  "517": {
+    "cost": {
+      "Food": 600,
+      "Gold": 600
+    },
+    "id": 517,
+    "internalName": "Indians UT",
+    "name": "Fabric Shields",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "fabric_shields",
+    "type": "tech"
+  },
+  "52": {
+    "cost": {
+      "Food": 1100,
+      "Gold": 900
+    },
+    "id": 52,
+    "internalName": "Chinese Rocketry",
+    "name": "Rocketry",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "rocketry",
+    "type": "tech"
+  },
+  "54": {
+    "cost": {
+      "Stone": 50,
+      "Wood": 200
+    },
+    "id": 54,
+    "internalName": "Stone cutting",
+    "name": "Treadmill Crane",
+    "repeatable": true,
+    "researchTime": 20,
+    "slug": "treadmill_crane",
+    "type": "tech"
+  },
+  "55": {
+    "cost": {
+      "Food": 100,
+      "Wood": 75
+    },
+    "id": 55,
+    "internalName": "Gold Mining",
+    "name": "Gold Mining",
+    "repeatable": true,
+    "researchTime": 30,
+    "slug": "gold_mining",
+    "type": "tech"
+  },
+  "572": {
+    "cost": {
+      "Gold": 300,
+      "Wood": 200
+    },
+    "id": 572,
+    "internalName": "Portuguese UT",
+    "name": "Carrack",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "carrack",
+    "type": "tech"
+  },
+  "573": {
+    "cost": {
+      "Food": 700,
+      "Gold": 400
+    },
+    "id": 573,
+    "internalName": "Portuguese UT",
+    "name": "Arquebus",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "arquebus",
+    "type": "tech"
+  },
+  "574": {
+    "cost": {
+      "Food": 300,
+      "Gold": 300
+    },
+    "id": 574,
+    "internalName": "Ethiopian UT",
+    "name": "Royal Heirs",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "royal_heirs",
+    "type": "tech"
+  },
+  "575": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 600
+    },
+    "id": 575,
+    "internalName": "Ethiopian UT",
+    "name": "Torsion Engines",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "torsion_engines",
+    "type": "tech"
+  },
+  "576": {
+    "cost": {
+      "Food": 200,
+      "Wood": 300
+    },
+    "id": 576,
+    "internalName": "Malian UT",
+    "name": "Tigui",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "tigui",
+    "type": "tech"
+  },
+  "577": {
+    "cost": {
+      "Food": 650,
+      "Gold": 400
+    },
+    "id": 577,
+    "internalName": "Malian UT",
+    "name": "Farimba",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "farimba",
+    "type": "tech"
+  },
+  "578": {
+    "cost": {
+      "Food": 250,
+      "Gold": 250
+    },
+    "id": 578,
+    "internalName": "Berber UT",
+    "name": "Kasbah",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "kasbah",
+    "type": "tech"
+  },
+  "579": {
+    "cost": {
+      "Food": 700,
+      "Gold": 300
+    },
+    "id": 579,
+    "internalName": "Berber UT",
+    "name": "Maghrebi Camels",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "maghrebi_camels",
+    "type": "tech"
+  },
+  "59": {
+    "cost": {
+      "Gold": 300,
+      "Wood": 550
+    },
+    "id": 59,
+    "internalName": "Japanese Kataparuto",
+    "name": "Kataparuto",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "kataparuto",
+    "type": "tech"
+  },
+  "6": {
+    "cost": {
+      "Gold": 450,
+      "Wood": 500
+    },
+    "id": 6,
+    "internalName": "Mongol Siege Drill",
+    "name": "Drill",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "drill",
+    "type": "tech"
+  },
+  "602": {
+    "cost": {
+      "Food": 75,
+      "Gold": 25
+    },
+    "id": 602,
+    "internalName": "Arson",
+    "name": "Arson",
+    "repeatable": true,
+    "researchTime": 25,
+    "slug": "arson",
+    "type": "tech"
+  },
+  "608": {
+    "cost": {
+      "Food": 250,
+      "Wood": 250
+    },
+    "id": 608,
+    "internalName": "Arrowslits",
+    "name": "Arrowslits",
+    "repeatable": true,
+    "researchTime": 25,
+    "slug": "arrowslits",
+    "type": "tech"
+  },
+  "61": {
+    "cost": {
+      "Food": 800,
+      "Gold": 600
+    },
+    "id": 61,
+    "internalName": "Byzantine Logistica",
+    "name": "Logistica",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "logistica",
+    "type": "tech"
+  },
+  "622": {
+    "cost": {
+      "Gold": 450,
+      "Wood": 300
+    },
+    "id": 622,
+    "internalName": "Khmer UT",
+    "name": "Tusk Swords",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "tusk_swords",
+    "type": "tech"
+  },
+  "623": {
+    "cost": {
+      "Food": 700,
+      "Gold": 400
+    },
+    "id": 623,
+    "internalName": "Khmer UT",
+    "name": "Double Crossbow",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "double_crossbow",
+    "type": "tech"
+  },
+  "624": {
+    "cost": {
+      "Food": 300,
+      "Gold": 300
+    },
+    "id": 624,
+    "internalName": "Malay UT",
+    "name": "Thalassocracy",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "thalassocracy",
+    "type": "tech"
+  },
+  "625": {
+    "cost": {
+      "Food": 850,
+      "Gold": 500
+    },
+    "id": 625,
+    "internalName": "Malay UT",
+    "name": "Forced Levy",
+    "repeatable": false,
+    "researchTime": 40,
+    "slug": "forced_levy",
+    "type": "tech"
+  },
+  "626": {
+    "cost": {
+      "Food": 400,
+      "Wood": 300
+    },
+    "id": 626,
+    "internalName": "Burmese UT",
+    "name": "Howdah",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "howdah",
+    "type": "tech"
+  },
+  "627": {
+    "cost": {
+      "Food": 300,
+      "Gold": 300
+    },
+    "id": 627,
+    "internalName": "Burmese UT",
+    "name": "Manipur Cavalry",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "manipur_cavalry",
+    "type": "tech"
+  },
+  "628": {
+    "cost": {
+      "Food": 250,
+      "Gold": 250
+    },
+    "id": 628,
+    "internalName": "Vietnamese UT",
+    "name": "Chatras",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "chatras",
+    "type": "tech"
+  },
+  "629": {
+    "cost": {
+      "Food": 550,
+      "Wood": 200
+    },
+    "id": 629,
+    "internalName": "Vietnamese UT",
+    "name": "Paper Money",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "paper_money",
+    "type": "tech"
+  },
+  "63": {
+    "cost": {
+      "Food": 500,
+      "Wood": 350
+    },
+    "id": 63,
+    "internalName": "Keep",
+    "name": "Keep",
+    "repeatable": true,
+    "researchTime": 75,
+    "slug": "keep",
+    "type": "tech"
+  },
+  "64": {
+    "cost": {
+      "Food": 800,
+      "Wood": 400
+    },
+    "id": 64,
+    "internalName": "Bombard Tower",
+    "name": "Bombard Tower",
+    "repeatable": false,
+    "researchTime": 60,
+    "slug": "bombard_tower",
+    "type": "tech"
+  },
+  "65": {
+    "cost": {
+      "Food": 150,
+      "Wood": 200
+    },
+    "id": 65,
+    "internalName": "Gillnets",
+    "name": "Gillnets",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "gillnets",
+    "type": "tech"
+  },
+  "67": {
+    "cost": {
+      "Food": 150
+    },
+    "id": 67,
+    "internalName": "Forging",
+    "name": "Forging",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "forging",
+    "type": "tech"
+  },
+  "68": {
+    "cost": {
+      "Food": 220,
+      "Gold": 120
+    },
+    "id": 68,
+    "internalName": "Iron casting",
+    "name": "Iron Casting",
+    "repeatable": true,
+    "researchTime": 75,
+    "slug": "iron_casting",
+    "type": "tech"
+  },
+  "685": {
+    "cost": {
+      "Food": 400,
+      "Gold": 200
+    },
+    "id": 685,
+    "internalName": "Khmer UT",
+    "name": "Stirrups",
+    "repeatable": true,
+    "researchTime": 35,
+    "slug": "stirrups",
+    "type": "tech"
+  },
+  "686": {
+    "cost": {
+      "Food": 900,
+      "Gold": 450
+    },
+    "id": 686,
+    "internalName": "Khmer UT",
+    "name": "Bagains",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "bagains",
+    "type": "tech"
+  },
+  "687": {
+    "cost": {
+      "Gold": 300,
+      "Wood": 400
+    },
+    "id": 687,
+    "internalName": "Malay UT",
+    "name": "Silk Armor",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "silk_armor",
+    "type": "tech"
+  },
+  "688": {
+    "cost": {
+      "Gold": 400,
+      "Wood": 500
+    },
+    "id": 688,
+    "internalName": "Malay UT",
+    "name": "Timurid Siegecraft",
+    "repeatable": false,
+    "researchTime": 50,
+    "slug": "timurid_siegecraft",
+    "type": "tech"
+  },
+  "689": {
+    "cost": {
+      "Food": 200,
+      "Wood": 300
+    },
+    "id": 689,
+    "internalName": "Burmese UT",
+    "name": "Steppe Husbandry",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "steppe_husbandry",
+    "type": "tech"
+  },
+  "690": {
+    "cost": {
+      "Food": 650,
+      "Gold": 400
+    },
+    "id": 690,
+    "internalName": "Burmese UT",
+    "name": "Cuman Mercenaries",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "cuman_mercenaries",
+    "type": "tech"
+  },
+  "691": {
+    "cost": {
+      "Food": 250,
+      "Gold": 250
+    },
+    "id": 691,
+    "internalName": "Vietnamese UT",
+    "name": "Hill Forts",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "hill_forts",
+    "type": "tech"
+  },
+  "692": {
+    "cost": {
+      "Food": 500,
+      "Gold": 200
+    },
+    "id": 692,
+    "internalName": "Vietnamese UT",
+    "name": "Tower Shields",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "tower_shields",
+    "type": "tech"
+  },
+  "7": {
+    "cost": {
+      "Gold": 300,
+      "Wood": 600
+    },
+    "id": 7,
+    "internalName": "Citadels",
+    "name": "Citadels",
+    "repeatable": true,
+    "researchTime": 50,
+    "slug": "citadels",
+    "type": "tech"
+  },
+  "74": {
+    "cost": {
+      "Food": 100
+    },
+    "id": 74,
+    "internalName": "Scale Mail Armor",
+    "name": "Scale Mail Armor",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "scale_mail_armor",
+    "type": "tech"
+  },
+  "75": {
+    "cost": {
+      "Food": 275,
+      "Gold": 225
+    },
+    "id": 75,
+    "internalName": "Blast Furnace",
+    "name": "Blast Furnace",
+    "repeatable": true,
+    "researchTime": 100,
+    "slug": "blast_furnace",
+    "type": "tech"
+  },
+  "754": {
+    "cost": {
+      "Food": 400,
+      "Gold": 300
+    },
+    "id": 754,
+    "internalName": "Burgundian Vineyards",
+    "name": "Burgundian Vineyards",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "burgundian_vineyards",
+    "type": "tech"
+  },
+  "755": {
+    "cost": {
+      "Food": 200,
+      "Gold": 150
+    },
+    "id": 755,
+    "internalName": "Flemish Revolution",
+    "name": "Flemish Revolution",
+    "repeatable": true,
+    "researchTime": 10,
+    "slug": "flemish_revolution",
+    "type": "tech"
+  },
+  "756": {
+    "cost": {
+      "Food": 400,
+      "Gold": 300
+    },
+    "id": 756,
+    "internalName": "First Crusade",
+    "name": "First Crusade",
+    "repeatable": false,
+    "researchTime": 60,
+    "slug": "first_crusade",
+    "type": "tech"
+  },
+  "757": {
+    "cost": {
+      "Food": 700,
+      "Gold": 600
+    },
+    "id": 757,
+    "internalName": "Hauberk",
+    "name": "Hauberk",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "hauberk",
+    "type": "tech"
+  },
+  "76": {
+    "cost": {
+      "Food": 200,
+      "Gold": 100
+    },
+    "id": 76,
+    "internalName": "Chain Mail Armor",
+    "name": "Chain Mail Armor",
+    "repeatable": true,
+    "researchTime": 55,
+    "slug": "chain_mail_armor",
+    "type": "tech"
+  },
+  "77": {
+    "cost": {
+      "Food": 300,
+      "Gold": 150
+    },
+    "id": 77,
+    "internalName": "Plate Mail Armor",
+    "name": "Plate Mail Armor",
+    "repeatable": true,
+    "researchTime": 70,
+    "slug": "plate_mail_armor",
+    "type": "tech"
+  },
+  "782": {
+    "cost": {
+      "Food": 500,
+      "Gold": 300
+    },
+    "id": 782,
+    "internalName": "Szlachta Privileges",
+    "name": "Szlachta Privileges",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "szlachta_privileges",
+    "type": "tech"
+  },
+  "783": {
+    "cost": {
+      "Food": 750,
+      "Gold": 550
+    },
+    "id": 783,
+    "internalName": "Lechitic Legacy",
+    "name": "Lechitic Legacy",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "lechitic_legacy",
+    "type": "tech"
+  },
+  "784": {
+    "cost": {
+      "Food": 300,
+      "Gold": 300
+    },
+    "id": 784,
+    "internalName": "Wagenburg Tactics",
+    "name": "Wagenburg Tactics",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "wagenburg_tactics",
+    "type": "tech"
+  },
+  "785": {
+    "cost": {
+      "Food": 500,
+      "Gold": 450
+    },
+    "id": 785,
+    "internalName": "Hussite Reforms",
+    "name": "Hussite Reforms",
+    "repeatable": false,
+    "researchTime": 45,
+    "slug": "hussite_reforms",
+    "type": "tech"
+  },
+  "8": {
+    "cost": {
+      "Food": 75
+    },
+    "id": 8,
+    "internalName": "Town Watch",
+    "name": "Town Watch",
+    "repeatable": false,
+    "researchTime": 25,
+    "slug": "town_watch",
+    "type": "tech"
+  },
+  "80": {
+    "cost": {
+      "Food": 350,
+      "Gold": 200
+    },
+    "id": 80,
+    "internalName": "Plate Barding Armor",
+    "name": "Plate Barding Armor",
+    "repeatable": true,
+    "researchTime": 75,
+    "slug": "plate_barding_armor",
+    "type": "tech"
+  },
+  "81": {
+    "cost": {
+      "Food": 150
+    },
+    "id": 81,
+    "internalName": "Scale Barding Armor",
+    "name": "Scale Barding Armor",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "scale_barding_armor",
+    "type": "tech"
+  },
+  "82": {
+    "cost": {
+      "Food": 250,
+      "Gold": 150
+    },
+    "id": 82,
+    "internalName": "Chain Barding Armor",
+    "name": "Chain Barding Armor",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "chain_barding_armor",
+    "type": "tech"
+  },
+  "83": {
+    "cost": {
+      "Food": 300,
+      "Gold": 300
+    },
+    "id": 83,
+    "internalName": "Frankish Bearded Axe",
+    "name": "Bearded Axe",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "bearded_axe",
+    "type": "tech"
+  },
+  "831": {
+    "cost": {
+      "Food": 300,
+      "Gold": 200
+    },
+    "id": 831,
+    "internalName": "Medical Corps",
+    "name": "Medical Corps",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "medical_corps",
+    "type": "tech"
+  },
+  "832": {
+    "cost": {
+      "Food": 650,
+      "Gold": 550
+    },
+    "id": 832,
+    "internalName": "Wootz Steel",
+    "name": "Wootz Steel",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "wootz_steel",
+    "type": "tech"
+  },
+  "833": {
+    "cost": {
+      "Gold": 275,
+      "Wood": 375
+    },
+    "id": 833,
+    "internalName": "Paiks",
+    "name": "Paiks",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "paiks",
+    "type": "tech"
+  },
+  "834": {
+    "cost": {
+      "Gold": 650,
+      "Wood": 800
+    },
+    "id": 834,
+    "internalName": "Mahayana",
+    "name": "Mahayana",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "mahayana",
+    "type": "tech"
+  },
+  "835": {
+    "cost": {
+      "Food": 500,
+      "Gold": 450
+    },
+    "id": 835,
+    "internalName": "Kshatriyas",
+    "name": "Kshatriyas",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "kshatriyas",
+    "type": "tech"
+  },
+  "836": {
+    "cost": {
+      "Food": 800,
+      "Gold": 700
+    },
+    "id": 836,
+    "internalName": "Frontier Guards",
+    "name": "Frontier Guards",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "frontier_guards",
+    "type": "tech"
+  },
+  "875": {
+    "cost": {
+      "Food": 50,
+      "Gold": 100
+    },
+    "id": 875,
+    "internalName": "Gambesons",
+    "name": "Gambesons",
+    "repeatable": false,
+    "researchTime": 25,
+    "slug": "gambesons",
+    "type": "tech"
+  },
+  "883": {
+    "cost": {
+      "Gold": 300,
+      "Wood": 400
+    },
+    "id": 883,
+    "internalName": "Ballistas",
+    "name": "Ballistas",
+    "repeatable": false,
+    "researchTime": 45,
+    "slug": "ballistas",
+    "type": "tech"
+  },
+  "884": {
+    "cost": {
+      "Food": 700,
+      "Gold": 800
+    },
+    "id": 884,
+    "internalName": "Comitatenses",
+    "name": "Comitatenses",
+    "repeatable": true,
+    "researchTime": 60,
+    "slug": "comitatenses",
+    "type": "tech"
+  },
+  "90": {
+    "cost": {},
+    "id": 90,
+    "internalName": "Tracking",
+    "name": "Tracking",
+    "repeatable": true,
+    "researchTime": 0,
+    "slug": "tracking",
+    "type": "tech"
+  },
+  "902": {
+    "cost": {
+      "Food": 650,
+      "Gold": 500
+    },
+    "id": 902,
+    "internalName": "Pirotecnia",
+    "name": "Pirotechnia",
+    "repeatable": false,
+    "researchTime": 50,
+    "slug": "pirotechnia",
+    "type": "tech"
+  },
+  "921": {
+    "cost": {
+      "Food": 550,
+      "Gold": 400
+    },
+    "id": 921,
+    "internalName": "Fereters",
+    "name": "Fereters",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "fereters",
+    "type": "tech"
+  },
+  "922": {
+    "cost": {
+      "Gold": 300,
+      "Wood": 350
+    },
+    "id": 922,
+    "internalName": "Cilician Fleet",
+    "name": "Cilician Fleet",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "cilician_fleet",
+    "type": "tech"
+  },
+  "923": {
+    "cost": {
+      "Food": 300,
+      "Gold": 200
+    },
+    "id": 923,
+    "internalName": "Svan Towers",
+    "name": "Svan Towers",
+    "repeatable": true,
+    "researchTime": 45,
+    "slug": "svan_towers",
+    "type": "tech"
+  },
+  "924": {
+    "cost": {
+      "Food": 550,
+      "Gold": 250
+    },
+    "id": 924,
+    "internalName": "Aznauri Cavalry",
+    "name": "Aznauri Cavalry",
+    "repeatable": false,
+    "researchTime": 45,
+    "slug": "aznauri_cavalry",
+    "type": "tech"
+  },
+  "93": {
+    "cost": {
+      "Gold": 175,
+      "Wood": 300
+    },
+    "id": 93,
+    "internalName": "Ballistics",
+    "name": "Ballistics",
+    "repeatable": false,
+    "researchTime": 60,
+    "slug": "ballistics",
+    "type": "tech"
+  },
+  "996": {
+    "cost": {
+      "Food": 350,
+      "Wood": 250
+    },
+    "id": 996,
+    "internalName": "Fortifed Bastions",
+    "name": "Fortified Bastions",
+    "repeatable": true,
+    "researchTime": 40,
+    "slug": "fortified_bastions",
+    "type": "tech"
+  },
+  "997": {
+    "cost": {
+      "Food": 900,
+      "Gold": 600
+    },
+    "id": 997,
+    "internalName": "Thunderclap Bombs",
+    "name": "Thunderclap Bombs",
+    "repeatable": false,
+    "researchTime": 50,
+    "slug": "thunderclap_bombs",
+    "type": "tech"
+  },
+  "upgrade_1003": {
+    "cost": {
+      "Food": 1200,
+      "Gold": 500
+    },
+    "id": 563,
+    "internalName": "Elite Organ Gun",
+    "name": "Elite Organ Gun",
+    "researchTime": 45,
+    "slug": "elite_organ_gun",
+    "type": "unit_upgrade",
+    "unitId": 1003
+  },
+  "upgrade_1006": {
+    "cost": {
+      "Food": 700,
+      "Gold": 525
+    },
+    "id": 597,
+    "internalName": "Elite Caravel",
+    "name": "Elite Caravel",
+    "researchTime": 60,
+    "slug": "elite_caravel",
+    "type": "unit_upgrade",
+    "unitId": 1006
+  },
+  "upgrade_1009": {
+    "cost": {
+      "Gold": 500,
+      "Wood": 1000
+    },
+    "id": 565,
+    "internalName": "Elite Camel Archer",
+    "name": "Elite Camel Archer",
+    "researchTime": 45,
+    "slug": "elite_camel_archer",
+    "type": "unit_upgrade",
+    "unitId": 1009
+  },
+  "upgrade_1012": {
+    "cost": {
+      "Food": 500,
+      "Wood": 450
+    },
+    "id": 599,
+    "internalName": "Elite Genitour",
+    "name": "Elite Genitour",
+    "researchTime": 60,
+    "slug": "elite_genitour",
+    "type": "unit_upgrade",
+    "unitId": 1012
+  },
+  "upgrade_1015": {
+    "cost": {
+      "Food": 900,
+      "Gold": 600
+    },
+    "id": 567,
+    "internalName": "Elite Mali Unit",
+    "name": "Elite Mali Unit",
+    "researchTime": 45,
+    "slug": "elite_mali_unit",
+    "type": "unit_upgrade",
+    "unitId": 1015
+  },
+  "upgrade_1018": {
+    "cost": {
+      "Food": 900,
+      "Gold": 450
+    },
+    "id": 569,
+    "internalName": "Elite Ethiopia Unit",
+    "name": "Elite Ethiopia Unit",
+    "researchTime": 45,
+    "slug": "elite_ethiopia_unit",
+    "type": "unit_upgrade",
+    "unitId": 1018
+  },
+  "upgrade_1122": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 500
+    },
+    "id": 615,
+    "internalName": "Elite Ballista Elephant",
+    "name": "Elite Ballista Elephant",
+    "researchTime": 70,
+    "slug": "elite_ballista_elephant",
+    "type": "unit_upgrade",
+    "unitId": 1122
+  },
+  "upgrade_1125": {
+    "cost": {
+      "Food": 900,
+      "Gold": 600
+    },
+    "id": 617,
+    "internalName": "Elite Karambit Warrior",
+    "name": "Elite Karambit Warrior",
+    "researchTime": 40,
+    "slug": "elite_karambit_warrior",
+    "type": "unit_upgrade",
+    "unitId": 1125
+  },
+  "upgrade_1128": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 750
+    },
+    "id": 619,
+    "internalName": "Elite Arambai",
+    "name": "Elite Arambai",
+    "researchTime": 65,
+    "slug": "elite_arambai",
+    "type": "unit_upgrade",
+    "unitId": 1128
+  },
+  "upgrade_1131": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 750
+    },
+    "id": 621,
+    "internalName": "Elite Rattan Archer",
+    "name": "Elite Rattan Archer",
+    "researchTime": 45,
+    "slug": "elite_rattan_archer",
+    "type": "unit_upgrade",
+    "unitId": 1131
+  },
+  "upgrade_1132": {
+    "cost": {},
+    "id": 630,
+    "internalName": "Battle Elephant (make avail)",
+    "name": "Battle Elephant (make avail)",
+    "researchTime": 0,
+    "slug": "battle_elephant_make_avail",
+    "type": "unit_upgrade",
+    "unitId": 1132
+  },
+  "upgrade_1134": {
+    "cost": {
+      "Food": 1100,
+      "Gold": 700
+    },
+    "id": 631,
+    "internalName": "Elite Battle Elephant",
+    "name": "Elite Battle Elephant",
+    "researchTime": 100,
+    "slug": "elite_battle_elephant",
+    "type": "unit_upgrade",
+    "unitId": 1134
+  },
+  "upgrade_1155": {
+    "cost": {
+      "Gold": 300,
+      "Wood": 300
+    },
+    "id": 655,
+    "internalName": "Imperial Skirmisher",
+    "name": "Imperial Skirmisher",
+    "researchTime": 50,
+    "slug": "imperial_skirmisher",
+    "type": "unit_upgrade",
+    "unitId": 1155
+  },
+  "upgrade_1227": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 750
+    },
+    "id": 678,
+    "internalName": "Elite Konnik",
+    "name": "Elite Konnik",
+    "researchTime": 70,
+    "slug": "elite_konnik",
+    "type": "unit_upgrade",
+    "unitId": 1227
+  },
+  "upgrade_1230": {
+    "cost": {
+      "Food": 700,
+      "Gold": 600
+    },
+    "id": 680,
+    "internalName": "Elite Keshik",
+    "name": "Elite Keshik",
+    "researchTime": 40,
+    "slug": "elite_keshik",
+    "type": "unit_upgrade",
+    "unitId": 1230
+  },
+  "upgrade_1233": {
+    "cost": {
+      "Food": 1100,
+      "Wood": 1000
+    },
+    "id": 682,
+    "internalName": "Elite Kipchak",
+    "name": "Elite Kipchak",
+    "researchTime": 65,
+    "slug": "elite_kipchak",
+    "type": "unit_upgrade",
+    "unitId": 1233
+  },
+  "upgrade_1236": {
+    "cost": {
+      "Food": 750,
+      "Gold": 750
+    },
+    "id": 684,
+    "internalName": "Elite Leitis",
+    "name": "Elite Leitis",
+    "researchTime": 45,
+    "slug": "elite_leitis",
+    "type": "unit_upgrade",
+    "unitId": 1236
+  },
+  "upgrade_1255": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 750
+    },
+    "id": 678,
+    "internalName": "Elite Konnik",
+    "name": "Elite Konnik",
+    "researchTime": 70,
+    "slug": "elite_konnik",
+    "type": "unit_upgrade",
+    "unitId": 1255
+  },
+  "upgrade_1302": {
+    "cost": {
+      "Gold": 300,
+      "Wood": 350
+    },
+    "id": 1010,
+    "internalName": "Dragon Ship",
+    "name": "Dragon Ship",
+    "researchTime": 60,
+    "slug": "dragon_ship",
+    "type": "unit_upgrade",
+    "unitId": 1302
+  },
+  "upgrade_1372": {
+    "cost": {
+      "Food": 600,
+      "Gold": 550
+    },
+    "id": 715,
+    "internalName": "Elite Steppe Lancer",
+    "name": "Elite Steppe Lancer",
+    "researchTime": 55,
+    "slug": "elite_steppe_lancer",
+    "type": "unit_upgrade",
+    "unitId": 1372
+  },
+  "upgrade_1657": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 800
+    },
+    "id": 751,
+    "internalName": "Elite Coustillier",
+    "name": "Elite Coustillier",
+    "researchTime": 45,
+    "slug": "elite_coustillier",
+    "type": "unit_upgrade",
+    "unitId": 1657
+  },
+  "upgrade_1659": {
+    "cost": {
+      "Food": 800,
+      "Gold": 675
+    },
+    "id": 753,
+    "internalName": "Elite Serjeant",
+    "name": "Elite Serjeant",
+    "researchTime": 45,
+    "slug": "elite_serjeant",
+    "type": "unit_upgrade",
+    "unitId": 1659
+  },
+  "upgrade_1661": {
+    "cost": {
+      "Food": 800,
+      "Gold": 675
+    },
+    "id": 753,
+    "internalName": "Elite Serjeant",
+    "name": "Elite Serjeant",
+    "researchTime": 45,
+    "slug": "elite_serjeant",
+    "type": "unit_upgrade",
+    "unitId": 1661
+  },
+  "upgrade_1703": {
+    "cost": {
+      "Food": 800,
+      "Gold": 600
+    },
+    "id": 779,
+    "internalName": "Elite Obuch",
+    "name": "Elite Obuch",
+    "researchTime": 45,
+    "slug": "elite_obuch",
+    "type": "unit_upgrade",
+    "unitId": 1703
+  },
+  "upgrade_1706": {
+    "cost": {
+      "Gold": 600,
+      "Wood": 800
+    },
+    "id": 781,
+    "internalName": "Elite Hussite Wagon",
+    "name": "Elite Hussite Wagon",
+    "researchTime": 45,
+    "slug": "elite_hussite_wagon",
+    "type": "unit_upgrade",
+    "unitId": 1706
+  },
+  "upgrade_1707": {
+    "cost": {
+      "Food": 600,
+      "Gold": 800
+    },
+    "id": 786,
+    "internalName": "Winged Hussar",
+    "name": "Winged Hussar",
+    "researchTime": 60,
+    "slug": "winged_hussar",
+    "type": "unit_upgrade",
+    "unitId": 1707
+  },
+  "upgrade_1709": {
+    "cost": {
+      "Food": 1100,
+      "Gold": 800
+    },
+    "id": 787,
+    "internalName": "Houfnice",
+    "name": "Houfnice",
+    "researchTime": 140,
+    "slug": "houfnice",
+    "type": "unit_upgrade",
+    "unitId": 1709
+  },
+  "upgrade_1737": {
+    "cost": {
+      "Food": 900,
+      "Gold": 450
+    },
+    "id": 826,
+    "internalName": "Elite Urumi Swordsman",
+    "name": "Elite Urumi Swordsman",
+    "researchTime": 45,
+    "slug": "elite_urumi_swordsman",
+    "type": "unit_upgrade",
+    "unitId": 1737
+  },
+  "upgrade_1743": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 650
+    },
+    "id": 830,
+    "internalName": "Elite Chakram Thrower",
+    "name": "Elite Chakram Thrower",
+    "researchTime": 45,
+    "slug": "elite_chakram_thrower",
+    "type": "unit_upgrade",
+    "unitId": 1743
+  },
+  "upgrade_1746": {
+    "cost": {
+      "Food": 850
+    },
+    "id": 838,
+    "internalName": "Elite Armored Elephant",
+    "name": "Elite Armored Elephant",
+    "researchTime": 60,
+    "slug": "elite_armored_elephant",
+    "type": "unit_upgrade",
+    "unitId": 1746
+  },
+  "upgrade_1749": {
+    "cost": {
+      "Food": 950,
+      "Gold": 575
+    },
+    "id": 840,
+    "internalName": "Elite Ghulam",
+    "name": "Elite Ghulam",
+    "researchTime": 45,
+    "slug": "elite_ghulam",
+    "type": "unit_upgrade",
+    "unitId": 1749
+  },
+  "upgrade_1753": {
+    "cost": {
+      "Food": 850,
+      "Gold": 500
+    },
+    "id": 843,
+    "internalName": "Elite Shrivamsha Rider",
+    "name": "Elite Shrivamsha Rider",
+    "researchTime": 45,
+    "slug": "elite_shrivamsha_rider",
+    "type": "unit_upgrade",
+    "unitId": 1753
+  },
+  "upgrade_1761": {
+    "cost": {
+      "Food": 800,
+      "Wood": 800
+    },
+    "id": 828,
+    "internalName": "Elite Ratha",
+    "name": "Elite Ratha",
+    "researchTime": 45,
+    "slug": "elite_ratha",
+    "type": "unit_upgrade",
+    "unitId": 1761
+  },
+  "upgrade_1787": {
+    "cost": {
+      "Food": 160,
+      "Gold": 90
+    },
+    "id": 197,
+    "internalName": "Pikeman",
+    "name": "Pikeman",
+    "researchTime": 35,
+    "slug": "pikeman",
+    "type": "unit_upgrade",
+    "unitId": 1787
+  },
+  "upgrade_1788": {
+    "cost": {
+      "Food": 300,
+      "Gold": 600
+    },
+    "id": 429,
+    "internalName": "Halberdier",
+    "name": "Halberdier",
+    "researchTime": 50,
+    "slug": "halberdier",
+    "type": "unit_upgrade",
+    "unitId": 1788
+  },
+  "upgrade_1792": {
+    "cost": {
+      "Food": 1100,
+      "Gold": 900
+    },
+    "id": 882,
+    "internalName": "Elite Centurion",
+    "name": "Elite Centurion",
+    "researchTime": 60,
+    "slug": "elite_centurion",
+    "type": "unit_upgrade",
+    "unitId": 1792
+  },
+  "upgrade_1793": {
+    "cost": {
+      "Food": 800,
+      "Gold": 400
+    },
+    "id": 885,
+    "internalName": "Legionary",
+    "name": "Legionary",
+    "researchTime": 100,
+    "slug": "legionary",
+    "type": "unit_upgrade",
+    "unitId": 1793
+  },
+  "upgrade_1802": {
+    "cost": {
+      "Gold": 500,
+      "Wood": 600
+    },
+    "id": 918,
+    "internalName": "Elite Composite Bowman",
+    "name": "Elite Composite Bowman",
+    "researchTime": 45,
+    "slug": "elite_composite_bowman",
+    "type": "unit_upgrade",
+    "unitId": 1802
+  },
+  "upgrade_1805": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 700
+    },
+    "id": 920,
+    "internalName": "Elite Monaspa",
+    "name": "Elite Monaspa",
+    "researchTime": 45,
+    "slug": "elite_monaspa",
+    "type": "unit_upgrade",
+    "unitId": 1805
+  },
+  "upgrade_1813": {
+    "cost": {
+      "Food": 1200,
+      "Gold": 600
+    },
+    "id": 526,
+    "internalName": "Savar",
+    "name": "Savar",
+    "researchTime": 160,
+    "slug": "savar",
+    "type": "unit_upgrade",
+    "unitId": 1813
+  },
+  "upgrade_1903": {
+    "cost": {
+      "Food": 650,
+      "Gold": 400
+    },
+    "id": 982,
+    "internalName": "Elite Fire Lancer",
+    "name": "Elite Fire Lancer",
+    "researchTime": 50,
+    "slug": "elite_fire_lancer",
+    "type": "unit_upgrade",
+    "unitId": 1903
+  },
+  "upgrade_1907": {
+    "cost": {
+      "Gold": 600,
+      "Wood": 800
+    },
+    "id": 980,
+    "internalName": "Heavy Rocket Cart",
+    "name": "Heavy Rocket Cart",
+    "researchTime": 75,
+    "slug": "heavy_rocket_cart",
+    "type": "unit_upgrade",
+    "unitId": 1907
+  },
+  "upgrade_1910": {
+    "cost": {
+      "Food": 950,
+      "Gold": 550
+    },
+    "id": 991,
+    "internalName": "Elite Iron Pagoda",
+    "name": "Elite Iron Pagoda",
+    "researchTime": 45,
+    "slug": "elite_iron_pagoda",
+    "type": "unit_upgrade",
+    "unitId": 1910
+  },
+  "upgrade_1922": {
+    "cost": {
+      "Food": 800,
+      "Gold": 650
+    },
+    "id": 1002,
+    "internalName": "Elite Liao Dao",
+    "name": "Elite Liao Dao",
+    "researchTime": 45,
+    "slug": "elite_liao_dao",
+    "type": "unit_upgrade",
+    "unitId": 1922
+  },
+  "upgrade_1946": {
+    "cost": {
+      "Food": 350,
+      "Gold": 250
+    },
+    "id": 1033,
+    "internalName": "Heavy Hei-Kuang Cavalry",
+    "name": "Heavy Hei-Kuang Cavalry",
+    "researchTime": 70,
+    "slug": "heavy_hei_kuang_cavalry",
+    "type": "unit_upgrade",
+    "unitId": 1946
+  },
+  "upgrade_1951": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 800
+    },
+    "id": 1036,
+    "internalName": "Elite Tiger Cavalry",
+    "name": "Elite Tiger Cavalry",
+    "researchTime": 50,
+    "slug": "elite_tiger_cavalry",
+    "type": "unit_upgrade",
+    "unitId": 1951
+  },
+  "upgrade_1961": {
+    "cost": {
+      "Food": 900,
+      "Gold": 500
+    },
+    "id": 1064,
+    "internalName": "Elite White Feather Guard",
+    "name": "Elite White Feather Guard",
+    "researchTime": 45,
+    "slug": "elite_white_feather_guard",
+    "type": "unit_upgrade",
+    "unitId": 1961
+  },
+  "upgrade_1970": {
+    "cost": {
+      "Food": 800,
+      "Gold": 800
+    },
+    "id": 1074,
+    "internalName": "Elite Fire Archer",
+    "name": "Elite Fire Archer",
+    "researchTime": 45,
+    "slug": "elite_fire_archer",
+    "type": "unit_upgrade",
+    "unitId": 1970
+  },
+  "upgrade_1974": {
+    "cost": {},
+    "id": 1156,
+    "internalName": "",
+    "name": "Upgrade 1156",
+    "researchTime": 0,
+    "slug": "upgrade_1156",
+    "type": "unit_upgrade",
+    "unitId": 1974
+  },
+  "upgrade_207": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 500
+    },
+    "id": 521,
+    "internalName": "Heavy Camel",
+    "name": "Heavy Camel",
+    "researchTime": 125,
+    "slug": "heavy_camel",
+    "type": "unit_upgrade",
+    "unitId": 207
+  },
+  "upgrade_21": {
+    "cost": {
+      "Food": 230,
+      "Gold": 100
+    },
+    "id": 34,
+    "internalName": "War Galley",
+    "name": "War Galley",
+    "researchTime": 50,
+    "slug": "war_galley",
+    "type": "unit_upgrade",
+    "unitId": 21
+  },
+  "upgrade_24": {
+    "cost": {
+      "Food": 175,
+      "Gold": 100
+    },
+    "id": 100,
+    "internalName": "Crossbow",
+    "name": "Crossbow",
+    "researchTime": 35,
+    "slug": "crossbow",
+    "type": "unit_upgrade",
+    "unitId": 24
+  },
+  "upgrade_283": {
+    "cost": {
+      "Food": 300,
+      "Gold": 300
+    },
+    "id": 209,
+    "internalName": "Cavalier",
+    "name": "Cavalier",
+    "researchTime": 80,
+    "slug": "cavalier",
+    "type": "unit_upgrade",
+    "unitId": 283
+  },
+  "upgrade_330": {
+    "cost": {
+      "Food": 325,
+      "Gold": 360
+    },
+    "id": 236,
+    "internalName": "Heavy Camel",
+    "name": "Heavy Camel",
+    "researchTime": 105,
+    "slug": "heavy_camel",
+    "type": "unit_upgrade",
+    "unitId": 330
+  },
+  "upgrade_358": {
+    "cost": {
+      "Food": 160,
+      "Gold": 90
+    },
+    "id": 197,
+    "internalName": "Pikeman",
+    "name": "Pikeman",
+    "researchTime": 35,
+    "slug": "pikeman",
+    "type": "unit_upgrade",
+    "unitId": 358
+  },
+  "upgrade_359": {
+    "cost": {
+      "Food": 300,
+      "Gold": 600
+    },
+    "id": 429,
+    "internalName": "Halberdier",
+    "name": "Halberdier",
+    "researchTime": 50,
+    "slug": "halberdier",
+    "type": "unit_upgrade",
+    "unitId": 359
+  },
+  "upgrade_422": {
+    "cost": {
+      "Food": 300
+    },
+    "id": 96,
+    "internalName": "Capped Ram",
+    "name": "Capped Ram",
+    "researchTime": 50,
+    "slug": "capped_ram",
+    "type": "unit_upgrade",
+    "unitId": 422
+  },
+  "upgrade_441": {
+    "cost": {
+      "Food": 500,
+      "Gold": 600
+    },
+    "id": 428,
+    "internalName": "Hussar",
+    "name": "Hussar",
+    "researchTime": 50,
+    "slug": "hussar",
+    "type": "unit_upgrade",
+    "unitId": 441
+  },
+  "upgrade_442": {
+    "cost": {
+      "Food": 400,
+      "Wood": 315
+    },
+    "id": 35,
+    "internalName": "Galleon",
+    "name": "Galleon",
+    "researchTime": 65,
+    "slug": "galleon",
+    "type": "unit_upgrade",
+    "unitId": 442
+  },
+  "upgrade_473": {
+    "cost": {
+      "Food": 200,
+      "Gold": 100
+    },
+    "id": 217,
+    "internalName": "Two-Handed Swordsman",
+    "name": "Two-Handed Swordsman",
+    "researchTime": 45,
+    "slug": "two_handed_swordsman",
+    "type": "unit_upgrade",
+    "unitId": 473
+  },
+  "upgrade_474": {
+    "cost": {
+      "Food": 900,
+      "Gold": 500
+    },
+    "id": 218,
+    "internalName": "Heavy Cavalry Archer",
+    "name": "Heavy Cavalry Archer",
+    "researchTime": 50,
+    "slug": "heavy_cavalry_archer",
+    "type": "unit_upgrade",
+    "unitId": 474
+  },
+  "upgrade_492": {
+    "cost": {
+      "Food": 450,
+      "Gold": 350
+    },
+    "id": 237,
+    "internalName": "Arbalest",
+    "name": "Arbalest",
+    "researchTime": 50,
+    "slug": "arbalest",
+    "type": "unit_upgrade",
+    "unitId": 492
+  },
+  "upgrade_527": {
+    "cost": {
+      "Food": 230,
+      "Gold": 100
+    },
+    "id": 34,
+    "internalName": "War Galley",
+    "name": "War Galley",
+    "researchTime": 50,
+    "slug": "war_galley",
+    "type": "unit_upgrade",
+    "unitId": 527
+  },
+  "upgrade_528": {
+    "cost": {
+      "Gold": 300,
+      "Wood": 200
+    },
+    "id": 244,
+    "internalName": "Heavy Demolition",
+    "name": "Heavy Demolition",
+    "researchTime": 50,
+    "slug": "heavy_demolition",
+    "type": "unit_upgrade",
+    "unitId": 528
+  },
+  "upgrade_529": {
+    "cost": {
+      "Food": 230,
+      "Gold": 100
+    },
+    "id": 34,
+    "internalName": "War Galley",
+    "name": "War Galley",
+    "researchTime": 50,
+    "slug": "war_galley",
+    "type": "unit_upgrade",
+    "unitId": 529
+  },
+  "upgrade_530": {
+    "cost": {
+      "Food": 850,
+      "Gold": 850
+    },
+    "id": 360,
+    "internalName": "Elite Longbow",
+    "name": "Elite Longbow",
+    "researchTime": 60,
+    "slug": "elite_longbow",
+    "type": "unit_upgrade",
+    "unitId": 530
+  },
+  "upgrade_531": {
+    "cost": {
+      "Food": 850,
+      "Gold": 550
+    },
+    "id": 363,
+    "internalName": "Elite Throwing Axemen",
+    "name": "Elite Throwing Axemen",
+    "researchTime": 45,
+    "slug": "elite_throwing_axemen",
+    "type": "unit_upgrade",
+    "unitId": 531
+  },
+  "upgrade_532": {
+    "cost": {
+      "Gold": 250,
+      "Wood": 280
+    },
+    "id": 246,
+    "internalName": "Fast Fire Ship",
+    "name": "Fast Fire Ship",
+    "researchTime": 50,
+    "slug": "fast_fire_ship",
+    "type": "unit_upgrade",
+    "unitId": 532
+  },
+  "upgrade_533": {
+    "cost": {
+      "Food": 750,
+      "Gold": 475
+    },
+    "id": 372,
+    "internalName": "Unique Heroic Viking LBT",
+    "name": "Unique Heroic Viking LBT",
+    "researchTime": 60,
+    "slug": "unique_heroic_viking_lbt",
+    "type": "unit_upgrade",
+    "unitId": 533
+  },
+  "upgrade_534": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 800
+    },
+    "id": 370,
+    "internalName": "Elite Woad Raider",
+    "name": "Elite Woad Raider",
+    "researchTime": 45,
+    "slug": "elite_woad_raider",
+    "type": "unit_upgrade",
+    "unitId": 534
+  },
+  "upgrade_542": {
+    "cost": {
+      "Food": 800,
+      "Wood": 750
+    },
+    "id": 239,
+    "internalName": "Heavy Scorpion",
+    "name": "Heavy Scorpion",
+    "researchTime": 50,
+    "slug": "heavy_scorpion",
+    "type": "unit_upgrade",
+    "unitId": 542
+  },
+  "upgrade_546": {
+    "cost": {
+      "Food": 150,
+      "Gold": 50
+    },
+    "id": 254,
+    "internalName": "Light Cavalry",
+    "name": "Light Cavalry",
+    "researchTime": 45,
+    "slug": "light_cavalry",
+    "type": "unit_upgrade",
+    "unitId": 546
+  },
+  "upgrade_548": {
+    "cost": {
+      "Food": 1000
+    },
+    "id": 255,
+    "internalName": "Siege Ram",
+    "name": "Siege Ram",
+    "researchTime": 75,
+    "slug": "siege_ram",
+    "type": "unit_upgrade",
+    "unitId": 548
+  },
+  "upgrade_550": {
+    "cost": {
+      "Food": 800,
+      "Gold": 500
+    },
+    "id": 257,
+    "internalName": "Onager",
+    "name": "Onager",
+    "researchTime": 75,
+    "slug": "onager",
+    "type": "unit_upgrade",
+    "unitId": 550
+  },
+  "upgrade_553": {
+    "cost": {
+      "Food": 1200,
+      "Gold": 800
+    },
+    "id": 361,
+    "internalName": "Elite Cataphract",
+    "name": "Elite Cataphract",
+    "researchTime": 50,
+    "slug": "elite_cataphract",
+    "type": "unit_upgrade",
+    "unitId": 553
+  },
+  "upgrade_554": {
+    "cost": {
+      "Food": 950,
+      "Gold": 500
+    },
+    "id": 364,
+    "internalName": "Elite Teutonic Knight",
+    "name": "Elite Teutonic Knight",
+    "researchTime": 50,
+    "slug": "elite_teutonic_knight",
+    "type": "unit_upgrade",
+    "unitId": 554
+  },
+  "upgrade_555": {
+    "cost": {
+      "Food": 1200,
+      "Gold": 550
+    },
+    "id": 365,
+    "internalName": "Elite Huskarl",
+    "name": "Elite Huskarl",
+    "researchTime": 40,
+    "slug": "elite_huskarl",
+    "type": "unit_upgrade",
+    "unitId": 555
+  },
+  "upgrade_556": {
+    "cost": {
+      "Food": 600,
+      "Gold": 500
+    },
+    "id": 368,
+    "internalName": "Elite Mameluke",
+    "name": "Elite Mameluke",
+    "researchTime": 50,
+    "slug": "elite_mameluke",
+    "type": "unit_upgrade",
+    "unitId": 556
+  },
+  "upgrade_557": {
+    "cost": {
+      "Food": 850,
+      "Gold": 750
+    },
+    "id": 369,
+    "internalName": "Elite Jannisary",
+    "name": "Elite Jannisary",
+    "researchTime": 55,
+    "slug": "elite_jannisary",
+    "type": "unit_upgrade",
+    "unitId": 557
+  },
+  "upgrade_558": {
+    "cost": {
+      "Food": 1350,
+      "Gold": 800
+    },
+    "id": 367,
+    "internalName": "Elite War Elephant",
+    "name": "Elite War Elephant",
+    "researchTime": 75,
+    "slug": "elite_war_elephant",
+    "type": "unit_upgrade",
+    "unitId": 558
+  },
+  "upgrade_559": {
+    "cost": {
+      "Food": 1300,
+      "Gold": 1300
+    },
+    "id": 362,
+    "internalName": "Elite Chu Ko Nu",
+    "name": "Elite Chu Ko Nu",
+    "researchTime": 50,
+    "slug": "elite_chu_ko_nu",
+    "type": "unit_upgrade",
+    "unitId": 559
+  },
+  "upgrade_560": {
+    "cost": {
+      "Food": 750,
+      "Gold": 650
+    },
+    "id": 366,
+    "internalName": "Elite Samurai",
+    "name": "Elite Samurai",
+    "researchTime": 60,
+    "slug": "elite_samurai",
+    "type": "unit_upgrade",
+    "unitId": 560
+  },
+  "upgrade_561": {
+    "cost": {
+      "Food": 1100,
+      "Gold": 675
+    },
+    "id": 371,
+    "internalName": "Elite Mangudai",
+    "name": "Elite Mangudai",
+    "researchTime": 50,
+    "slug": "elite_mangudai",
+    "type": "unit_upgrade",
+    "unitId": 561
+  },
+  "upgrade_567": {
+    "cost": {
+      "Food": 650,
+      "Gold": 350
+    },
+    "id": 264,
+    "internalName": "Champion",
+    "name": "Champion",
+    "researchTime": 70,
+    "slug": "champion",
+    "type": "unit_upgrade",
+    "unitId": 567
+  },
+  "upgrade_569": {
+    "cost": {
+      "Food": 1300,
+      "Gold": 750
+    },
+    "id": 265,
+    "internalName": "Paladin",
+    "name": "Paladin",
+    "researchTime": 170,
+    "slug": "paladin",
+    "type": "unit_upgrade",
+    "unitId": 569
+  },
+  "upgrade_588": {
+    "cost": {
+      "Food": 1450,
+      "Gold": 1000
+    },
+    "id": 320,
+    "internalName": "Siege Onager",
+    "name": "Siege Onager",
+    "researchTime": 150,
+    "slug": "siege_onager",
+    "type": "unit_upgrade",
+    "unitId": 588
+  },
+  "upgrade_6": {
+    "cost": {
+      "Gold": 130,
+      "Wood": 230
+    },
+    "id": 98,
+    "internalName": "Elite Skirmisher",
+    "name": "Elite Skirmisher",
+    "researchTime": 50,
+    "slug": "elite_skirmisher",
+    "type": "unit_upgrade",
+    "unitId": 6
+  },
+  "upgrade_691": {
+    "cost": {
+      "Gold": 500,
+      "Wood": 525
+    },
+    "id": 376,
+    "internalName": "Elite Cannon Galley",
+    "name": "Elite Cannon Galley",
+    "researchTime": 30,
+    "slug": "elite_cannon_galley",
+    "type": "unit_upgrade",
+    "unitId": 691
+  },
+  "upgrade_694": {
+    "cost": {
+      "Food": 1075,
+      "Gold": 475
+    },
+    "id": 398,
+    "internalName": "Elite Berserk",
+    "name": "Elite Berserk",
+    "researchTime": 45,
+    "slug": "elite_berserk",
+    "type": "unit_upgrade",
+    "unitId": 694
+  },
+  "upgrade_726": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 500
+    },
+    "id": 432,
+    "internalName": "Elite Jaguar Man",
+    "name": "Elite Jaguar Man",
+    "researchTime": 45,
+    "slug": "elite_jaguar_man",
+    "type": "unit_upgrade",
+    "unitId": 726
+  },
+  "upgrade_75": {
+    "cost": {
+      "Food": 100,
+      "Gold": 40
+    },
+    "id": 222,
+    "internalName": "Man-At-Arms",
+    "name": "Man-At-Arms",
+    "researchTime": 40,
+    "slug": "man_at_arms",
+    "type": "unit_upgrade",
+    "unitId": 75
+  },
+  "upgrade_752": {
+    "cost": {
+      "Food": 800,
+      "Gold": 500
+    },
+    "id": 434,
+    "internalName": "Elite Eagle Warrior",
+    "name": "Elite Eagle Warrior",
+    "researchTime": 50,
+    "slug": "elite_eagle_warrior",
+    "type": "unit_upgrade",
+    "unitId": 752
+  },
+  "upgrade_753": {
+    "cost": {
+      "Food": 200,
+      "Gold": 200
+    },
+    "id": 384,
+    "internalName": "Heavy Eagle Warrior",
+    "name": "Heavy Eagle Warrior",
+    "researchTime": 50,
+    "slug": "heavy_eagle_warrior",
+    "type": "unit_upgrade",
+    "unitId": 753
+  },
+  "upgrade_757": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 500
+    },
+    "id": 2,
+    "internalName": "Elite Tarkan",
+    "name": "Elite Tarkan",
+    "researchTime": 45,
+    "slug": "elite_tarkan",
+    "type": "unit_upgrade",
+    "unitId": 757
+  },
+  "upgrade_761": {
+    "cost": {
+      "Food": 1200,
+      "Gold": 550
+    },
+    "id": 365,
+    "internalName": "Elite Huskarl",
+    "name": "Elite Huskarl",
+    "researchTime": 40,
+    "slug": "elite_huskarl",
+    "type": "unit_upgrade",
+    "unitId": 761
+  },
+  "upgrade_765": {
+    "cost": {
+      "Food": 700,
+      "Wood": 1000
+    },
+    "id": 27,
+    "internalName": "Elite Plumed Archer",
+    "name": "Elite Plumed Archer",
+    "researchTime": 45,
+    "slug": "elite_plumed_archer",
+    "type": "unit_upgrade",
+    "unitId": 765
+  },
+  "upgrade_77": {
+    "cost": {
+      "Food": 150,
+      "Gold": 65
+    },
+    "id": 207,
+    "internalName": "Long Swordsman",
+    "name": "Long Swordsman",
+    "researchTime": 40,
+    "slug": "long_swordsman",
+    "type": "unit_upgrade",
+    "unitId": 77
+  },
+  "upgrade_773": {
+    "cost": {
+      "Food": 900,
+      "Gold": 600
+    },
+    "id": 60,
+    "internalName": "Elite Conquistador",
+    "name": "Elite Conquistador",
+    "researchTime": 60,
+    "slug": "elite_conquistador",
+    "type": "unit_upgrade",
+    "unitId": 773
+  },
+  "upgrade_829": {
+    "cost": {
+      "Gold": 800,
+      "Wood": 1000
+    },
+    "id": 450,
+    "internalName": "Elite War Wagon",
+    "name": "Elite War Wagon",
+    "researchTime": 75,
+    "slug": "elite_war_wagon",
+    "type": "unit_upgrade",
+    "unitId": 829
+  },
+  "upgrade_832": {
+    "cost": {
+      "Food": 650,
+      "Gold": 500
+    },
+    "id": 448,
+    "internalName": "Elite Turtle Ship",
+    "name": "Elite Turtle Ship",
+    "researchTime": 65,
+    "slug": "elite_turtle_ship",
+    "type": "unit_upgrade",
+    "unitId": 832
+  },
+  "upgrade_868": {
+    "cost": {
+      "Food": 900,
+      "Gold": 750
+    },
+    "id": 468,
+    "internalName": "Elite Genoese Bow",
+    "name": "Elite Genoese Bow",
+    "researchTime": 60,
+    "slug": "elite_genoese_bow",
+    "type": "unit_upgrade",
+    "unitId": 868
+  },
+  "upgrade_871": {
+    "cost": {
+      "Food": 800,
+      "Gold": 600
+    },
+    "id": 472,
+    "internalName": "Elite Magyar Huszar",
+    "name": "Elite Magyar Huszar",
+    "researchTime": 60,
+    "slug": "elite_magyar_huszar",
+    "type": "unit_upgrade",
+    "unitId": 871
+  },
+  "upgrade_875": {
+    "cost": {
+      "Food": 900,
+      "Gold": 500
+    },
+    "id": 481,
+    "internalName": "Elite Elephant Archer",
+    "name": "Elite Elephant Archer",
+    "researchTime": 80,
+    "slug": "elite_elephant_archer",
+    "type": "unit_upgrade",
+    "unitId": 875
+  },
+  "upgrade_878": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 600
+    },
+    "id": 504,
+    "internalName": "Elite Siege Tower",
+    "name": "Elite Siege Tower",
+    "researchTime": 60,
+    "slug": "elite_siege_tower",
+    "type": "unit_upgrade",
+    "unitId": 878
+  },
+  "upgrade_881": {
+    "cost": {
+      "Food": 900,
+      "Gold": 500
+    },
+    "id": 509,
+    "internalName": "Elite Kamayuk",
+    "name": "Elite Kamayuk",
+    "researchTime": 45,
+    "slug": "elite_kamayuk",
+    "type": "unit_upgrade",
+    "unitId": 881
+  },
+  "upgrade_887": {
+    "cost": {
+      "Food": 1000,
+      "Gold": 500
+    },
+    "id": 2,
+    "internalName": "Elite Tarkan",
+    "name": "Elite Tarkan",
+    "researchTime": 45,
+    "slug": "elite_tarkan",
+    "type": "unit_upgrade",
+    "unitId": 887
+  }
+}
