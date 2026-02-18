@@ -1,17 +1,74 @@
 [
   {
+    "id": "achaemenids",
+    "name": "Achaemenids",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "armenians",
+    "name": "Armenians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "athenians",
+    "name": "Athenians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "aztecs",
+    "name": "Aztecs",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "bengalis",
+    "name": "Bengalis",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "berbers",
+    "name": "Berbers",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "bohemians",
+    "name": "Bohemians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
     "id": "britons",
     "name": "Britons",
     "availableUnits": [
-      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
-      "spearman", "pikeman", "halberdier",
-      "archer", "crossbowman", "arbalester",
-      "skirmisher", "elite_skirmisher",
-      "cavalry_archer", "heavy_cav_archer",
-      "scout_cavalry", "light_cavalry",
-      "knight", "cavalier",
+      "militia",
+      "man_at_arms",
+      "long_swordsman",
+      "two_handed_swordsman",
+      "champion",
+      "spearman",
+      "pikeman",
+      "halberdier",
+      "archer",
+      "crossbowman",
+      "arbalester",
+      "skirmisher",
+      "elite_skirmisher",
+      "cavalry_archer",
+      "heavy_cav_archer",
+      "scout_cavalry",
+      "light_cavalry",
+      "knight",
+      "cavalier",
       "monk",
-      "mangonel", "onager", "siege_ram", "scorpion"
+      "mangonel",
+      "onager",
+      "siege_ram",
+      "scorpion"
     ],
     "bonuses": [
       "Town Centers work 20% faster in Castle Age",
@@ -20,80 +77,55 @@
     ]
   },
   {
-    "id": "franks",
-    "name": "Franks",
-    "availableUnits": [
-      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
-      "spearman", "pikeman", "halberdier",
-      "archer", "crossbowman",
-      "skirmisher", "elite_skirmisher",
-      "cavalry_archer",
-      "scout_cavalry", "light_cavalry",
-      "knight", "cavalier", "paladin",
-      "monk",
-      "mangonel", "onager", "siege_ram", "scorpion"
-    ],
-    "bonuses": [
-      "Cavalry have +20% HP",
-      "Farm upgrades are free",
-      "Castles are 25% cheaper"
-    ]
+    "id": "bulgarians",
+    "name": "Bulgarians",
+    "availableUnits": [],
+    "bonuses": []
   },
   {
-    "id": "teutons",
-    "name": "Teutons",
-    "availableUnits": [
-      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
-      "spearman", "pikeman", "halberdier",
-      "archer", "crossbowman",
-      "skirmisher", "elite_skirmisher",
-      "cavalry_archer",
-      "scout_cavalry", "light_cavalry",
-      "knight", "cavalier", "paladin",
-      "monk",
-      "mangonel", "onager", "siege_ram", "scorpion"
-    ],
-    "bonuses": [
-      "Monks have double healing range",
-      "Towers can garrison twice as many units",
-      "Farms are 40% cheaper",
-      "Town Centers can garrison +10 units"
-    ]
+    "id": "burgundians",
+    "name": "Burgundians",
+    "availableUnits": [],
+    "bonuses": []
   },
   {
-    "id": "mongols",
-    "name": "Mongols",
-    "availableUnits": [
-      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman",
-      "spearman", "pikeman",
-      "archer", "crossbowman", "arbalester",
-      "skirmisher", "elite_skirmisher",
-      "cavalry_archer", "heavy_cav_archer",
-      "scout_cavalry", "light_cavalry", "hussar",
-      "knight", "cavalier",
-      "monk",
-      "mangonel", "onager", "siege_ram", "scorpion"
-    ],
-    "bonuses": [
-      "Cavalry archers fire 25% faster",
-      "Light Cavalry and Hussars have +30% HP",
-      "Hunters work 40% faster"
-    ]
+    "id": "burmese",
+    "name": "Burmese",
+    "availableUnits": [],
+    "bonuses": []
   },
   {
     "id": "byzantines",
     "name": "Byzantines",
     "availableUnits": [
-      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
-      "spearman", "pikeman", "halberdier",
-      "archer", "crossbowman", "arbalester",
-      "skirmisher", "elite_skirmisher",
-      "cavalry_archer", "heavy_cav_archer",
-      "scout_cavalry", "light_cavalry", "hussar",
-      "knight", "cavalier", "paladin",
-      "camel_rider", "heavy_camel_rider",
+      "militia",
+      "man_at_arms",
+      "long_swordsman",
+      "two_handed_swordsman",
+      "champion",
+      "spearman",
+      "pikeman",
+      "halberdier",
+      "archer",
+      "crossbowman",
+      "arbalester",
+      "skirmisher",
+      "elite_skirmisher",
+      "cavalry_archer",
+      "heavy_cav_archer",
+      "scout_cavalry",
+      "light_cavalry",
+      "hussar",
+      "knight",
+      "cavalier",
+      "paladin",
+      "camel_rider",
+      "heavy_camel_rider",
       "monk",
-      "mangonel", "onager", "siege_ram", "scorpion"
+      "mangonel",
+      "onager",
+      "siege_ram",
+      "scorpion"
     ],
     "bonuses": [
       "Camels, Skirmishers, Spearmen, Pikemen, Halberdiers cost 25% less",
@@ -103,38 +135,32 @@
     ]
   },
   {
-    "id": "saracens",
-    "name": "Saracens",
-    "availableUnits": [
-      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
-      "spearman", "pikeman",
-      "archer", "crossbowman", "arbalester",
-      "skirmisher", "elite_skirmisher",
-      "cavalry_archer", "heavy_cav_archer",
-      "scout_cavalry", "light_cavalry", "hussar",
-      "knight", "cavalier",
-      "camel_rider", "heavy_camel_rider",
-      "monk",
-      "mangonel", "onager", "siege_ram", "scorpion"
-    ],
-    "bonuses": [
-      "Market trade costs only 5%",
-      "Cavalry archers have +4 attack vs buildings",
-      "Monks heal 50% faster"
-    ]
-  },
-  {
     "id": "celts",
     "name": "Celts",
     "availableUnits": [
-      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
-      "spearman", "pikeman", "halberdier",
-      "archer", "crossbowman",
-      "skirmisher", "elite_skirmisher",
-      "scout_cavalry", "light_cavalry", "hussar",
-      "knight", "cavalier", "paladin",
+      "militia",
+      "man_at_arms",
+      "long_swordsman",
+      "two_handed_swordsman",
+      "champion",
+      "spearman",
+      "pikeman",
+      "halberdier",
+      "archer",
+      "crossbowman",
+      "skirmisher",
+      "elite_skirmisher",
+      "scout_cavalry",
+      "light_cavalry",
+      "hussar",
+      "knight",
+      "cavalier",
+      "paladin",
       "monk",
-      "mangonel", "onager", "siege_ram", "scorpion"
+      "mangonel",
+      "onager",
+      "siege_ram",
+      "scorpion"
     ],
     "bonuses": [
       "Infantry move 15% faster",
@@ -144,23 +170,424 @@
     ]
   },
   {
+    "id": "chinese",
+    "name": "Chinese",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "cumans",
+    "name": "Cumans",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "dravidians",
+    "name": "Dravidians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "ethiopians",
+    "name": "Ethiopians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "franks",
+    "name": "Franks",
+    "availableUnits": [
+      "militia",
+      "man_at_arms",
+      "long_swordsman",
+      "two_handed_swordsman",
+      "champion",
+      "spearman",
+      "pikeman",
+      "halberdier",
+      "archer",
+      "crossbowman",
+      "skirmisher",
+      "elite_skirmisher",
+      "cavalry_archer",
+      "scout_cavalry",
+      "light_cavalry",
+      "knight",
+      "cavalier",
+      "paladin",
+      "monk",
+      "mangonel",
+      "onager",
+      "siege_ram",
+      "scorpion"
+    ],
+    "bonuses": [
+      "Cavalry have +20% HP",
+      "Farm upgrades are free",
+      "Castles are 25% cheaper"
+    ]
+  },
+  {
+    "id": "georgians",
+    "name": "Georgians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "goths",
+    "name": "Goths",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "gurjaras",
+    "name": "Gurjaras",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "hindustanis",
+    "name": "Hindustanis",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "huns",
+    "name": "Huns",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "incas",
+    "name": "Incas",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "italians",
+    "name": "Italians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
     "id": "japanese",
     "name": "Japanese",
     "availableUnits": [
-      "militia", "man_at_arms", "long_swordsman", "two_handed_swordsman", "champion",
-      "spearman", "pikeman", "halberdier",
-      "archer", "crossbowman", "arbalester",
-      "skirmisher", "elite_skirmisher",
-      "cavalry_archer", "heavy_cav_archer",
-      "scout_cavalry", "light_cavalry",
-      "knight", "cavalier",
+      "militia",
+      "man_at_arms",
+      "long_swordsman",
+      "two_handed_swordsman",
+      "champion",
+      "spearman",
+      "pikeman",
+      "halberdier",
+      "archer",
+      "crossbowman",
+      "arbalester",
+      "skirmisher",
+      "elite_skirmisher",
+      "cavalry_archer",
+      "heavy_cav_archer",
+      "scout_cavalry",
+      "light_cavalry",
+      "knight",
+      "cavalier",
       "monk",
-      "mangonel", "onager", "siege_ram", "scorpion"
+      "mangonel",
+      "onager",
+      "siege_ram",
+      "scorpion"
     ],
     "bonuses": [
       "Infantry attack 33% faster",
       "Fishing Ships have double HP and +2 pierce armor",
       "Mills, Lumber Camps, Mining Camps are 50% cheaper"
     ]
+  },
+  {
+    "id": "jurchens",
+    "name": "Jurchens",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "khitans",
+    "name": "Khitans",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "khmer",
+    "name": "Khmer",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "koreans",
+    "name": "Koreans",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "lithuanians",
+    "name": "Lithuanians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "macedonians",
+    "name": "Macedonians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "magyars",
+    "name": "Magyars",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "malay",
+    "name": "Malay",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "malians",
+    "name": "Malians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "mapuche",
+    "name": "Mapuche",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "maya",
+    "name": "Maya",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "mongols",
+    "name": "Mongols",
+    "availableUnits": [
+      "militia",
+      "man_at_arms",
+      "long_swordsman",
+      "two_handed_swordsman",
+      "spearman",
+      "pikeman",
+      "archer",
+      "crossbowman",
+      "arbalester",
+      "skirmisher",
+      "elite_skirmisher",
+      "cavalry_archer",
+      "heavy_cav_archer",
+      "scout_cavalry",
+      "light_cavalry",
+      "hussar",
+      "knight",
+      "cavalier",
+      "monk",
+      "mangonel",
+      "onager",
+      "siege_ram",
+      "scorpion"
+    ],
+    "bonuses": [
+      "Cavalry archers fire 25% faster",
+      "Light Cavalry and Hussars have +30% HP",
+      "Hunters work 40% faster"
+    ]
+  },
+  {
+    "id": "muisca",
+    "name": "Muisca",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "persians",
+    "name": "Persians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "poles",
+    "name": "Poles",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "portuguese",
+    "name": "Portuguese",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "puru",
+    "name": "Puru",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "romans",
+    "name": "Romans",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "saracens",
+    "name": "Saracens",
+    "availableUnits": [
+      "militia",
+      "man_at_arms",
+      "long_swordsman",
+      "two_handed_swordsman",
+      "champion",
+      "spearman",
+      "pikeman",
+      "archer",
+      "crossbowman",
+      "arbalester",
+      "skirmisher",
+      "elite_skirmisher",
+      "cavalry_archer",
+      "heavy_cav_archer",
+      "scout_cavalry",
+      "light_cavalry",
+      "hussar",
+      "knight",
+      "cavalier",
+      "camel_rider",
+      "heavy_camel_rider",
+      "monk",
+      "mangonel",
+      "onager",
+      "siege_ram",
+      "scorpion"
+    ],
+    "bonuses": [
+      "Market trade costs only 5%",
+      "Cavalry archers have +4 attack vs buildings",
+      "Monks heal 50% faster"
+    ]
+  },
+  {
+    "id": "shu",
+    "name": "Shu",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "sicilians",
+    "name": "Sicilians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "slavs",
+    "name": "Slavs",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "spanish",
+    "name": "Spanish",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "spartans",
+    "name": "Spartans",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "tatars",
+    "name": "Tatars",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "teutons",
+    "name": "Teutons",
+    "availableUnits": [
+      "militia",
+      "man_at_arms",
+      "long_swordsman",
+      "two_handed_swordsman",
+      "champion",
+      "spearman",
+      "pikeman",
+      "halberdier",
+      "archer",
+      "crossbowman",
+      "skirmisher",
+      "elite_skirmisher",
+      "cavalry_archer",
+      "scout_cavalry",
+      "light_cavalry",
+      "knight",
+      "cavalier",
+      "paladin",
+      "monk",
+      "mangonel",
+      "onager",
+      "siege_ram",
+      "scorpion"
+    ],
+    "bonuses": [
+      "Monks have double healing range",
+      "Towers can garrison twice as many units",
+      "Farms are 40% cheaper",
+      "Town Centers can garrison +10 units"
+    ]
+  },
+  {
+    "id": "thracians",
+    "name": "Thracians",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "tupi",
+    "name": "Tupi",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "turks",
+    "name": "Turks",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "vietnamese",
+    "name": "Vietnamese",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "vikings",
+    "name": "Vikings",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "wei",
+    "name": "Wei",
+    "availableUnits": [],
+    "bonuses": []
+  },
+  {
+    "id": "wu",
+    "name": "Wu",
+    "availableUnits": [],
+    "bonuses": []
   }
 ]

@@ -1,0 +1,1168 @@
+{
+  "civilisations": {
+    "aztecs": {
+      "iconId": 1,
+      "name": "Aztecs",
+      "src": "assets/civs/aztecs.png"
+    },
+    "bengalis": {
+      "iconId": 2,
+      "name": "Bengalis",
+      "src": "assets/civs/bengalis.png"
+    },
+    "berbers": {
+      "iconId": 3,
+      "name": "Berbers",
+      "src": "assets/civs/berbers.png"
+    },
+    "bohemians": {
+      "iconId": 4,
+      "name": "Bohemians",
+      "src": "assets/civs/bohemians.png"
+    },
+    "britons": {
+      "iconId": 5,
+      "name": "Britons",
+      "src": "assets/civs/britons.png"
+    },
+    "bulgarians": {
+      "iconId": 6,
+      "name": "Bulgarians",
+      "src": "assets/civs/bulgarians.png"
+    },
+    "burgundians": {
+      "iconId": 7,
+      "name": "Burgundians",
+      "src": "assets/civs/burgundians.png"
+    },
+    "burmese": {
+      "iconId": 8,
+      "name": "Burmese",
+      "src": "assets/civs/burmese.png"
+    },
+    "byzantines": {
+      "iconId": 9,
+      "name": "Byzantines",
+      "src": "assets/civs/byzantines.png"
+    },
+    "celts": {
+      "iconId": 10,
+      "name": "Celts",
+      "src": "assets/civs/celts.png"
+    },
+    "chinese": {
+      "iconId": 11,
+      "name": "Chinese",
+      "src": "assets/civs/chinese.png"
+    },
+    "cumans": {
+      "iconId": 12,
+      "name": "Cumans",
+      "src": "assets/civs/cumans.png"
+    },
+    "dravidians": {
+      "iconId": 13,
+      "name": "Dravidians",
+      "src": "assets/civs/dravidians.png"
+    },
+    "ethiopians": {
+      "iconId": 14,
+      "name": "Ethiopians",
+      "src": "assets/civs/ethiopians.png"
+    },
+    "franks": {
+      "iconId": 15,
+      "name": "Franks",
+      "src": "assets/civs/franks.png"
+    },
+    "georgians": {
+      "iconId": 16,
+      "name": "Georgians",
+      "src": "assets/civs/georgians.png"
+    },
+    "goths": {
+      "iconId": 17,
+      "name": "Goths",
+      "src": "assets/civs/goths.png"
+    },
+    "gurjaras": {
+      "iconId": 18,
+      "name": "Gurjaras",
+      "src": "assets/civs/gurjaras.png"
+    },
+    "hindustanis": {
+      "iconId": 21,
+      "name": "Hindustanis",
+      "src": "assets/civs/hindustanis.png"
+    },
+    "huns": {
+      "iconId": 19,
+      "name": "Huns",
+      "src": "assets/civs/huns.png"
+    },
+    "incas": {
+      "iconId": 20,
+      "name": "Incas",
+      "src": "assets/civs/incas.png"
+    },
+    "italians": {
+      "iconId": 22,
+      "name": "Italians",
+      "src": "assets/civs/italians.png"
+    },
+    "japanese": {
+      "iconId": 23,
+      "name": "Japanese",
+      "src": "assets/civs/japanese.png"
+    },
+    "khmer": {
+      "iconId": 24,
+      "name": "Khmer",
+      "src": "assets/civs/khmer.png"
+    },
+    "koreans": {
+      "iconId": 25,
+      "name": "Koreans",
+      "src": "assets/civs/koreans.png"
+    },
+    "lithuanians": {
+      "iconId": 26,
+      "name": "Lithuanians",
+      "src": "assets/civs/lithuanians.png"
+    },
+    "magyars": {
+      "iconId": 27,
+      "name": "Magyars",
+      "src": "assets/civs/magyars.png"
+    },
+    "malay": {
+      "iconId": 28,
+      "name": "Malay",
+      "src": "assets/civs/malay.png"
+    },
+    "malians": {
+      "iconId": 29,
+      "name": "Malians",
+      "src": "assets/civs/malians.png"
+    },
+    "maya": {
+      "iconId": 30,
+      "name": "Maya",
+      "src": "assets/civs/maya.png"
+    },
+    "mongols": {
+      "iconId": 31,
+      "name": "Mongols",
+      "src": "assets/civs/mongols.png"
+    },
+    "persians": {
+      "iconId": 32,
+      "name": "Persians",
+      "src": "assets/civs/persians.png"
+    },
+    "poles": {
+      "iconId": 33,
+      "name": "Poles",
+      "src": "assets/civs/poles.png"
+    },
+    "portuguese": {
+      "iconId": 34,
+      "name": "Portuguese",
+      "src": "assets/civs/portuguese.png"
+    },
+    "romans": {
+      "iconId": 35,
+      "name": "Romans",
+      "src": "assets/civs/romans.png"
+    },
+    "saracens": {
+      "iconId": 36,
+      "name": "Saracens",
+      "src": "assets/civs/saracens.png"
+    },
+    "sicilians": {
+      "iconId": 37,
+      "name": "Sicilians",
+      "src": "assets/civs/sicilians.png"
+    },
+    "slavs": {
+      "iconId": 38,
+      "name": "Slavs",
+      "src": "assets/civs/slavs.png"
+    },
+    "spanish": {
+      "iconId": 39,
+      "name": "Spanish",
+      "src": "assets/civs/spanish.png"
+    },
+    "tatars": {
+      "iconId": 40,
+      "name": "Tatars",
+      "src": "assets/civs/tatars.png"
+    },
+    "teutons": {
+      "iconId": 41,
+      "name": "Teutons",
+      "src": "assets/civs/teutons.png"
+    },
+    "turks": {
+      "iconId": 42,
+      "name": "Turks",
+      "src": "assets/civs/turks.png"
+    }
+  },
+  "units": {
+    "arambai": {
+      "matchedName": "Arambai",
+      "name": "Arambai",
+      "objectId": 1126,
+      "src": "assets/units/arambai.png"
+    },
+    "arbalester": {
+      "matchedName": "Arbalester",
+      "name": "Arbalester",
+      "objectId": 492,
+      "src": "assets/units/arbalester.png"
+    },
+    "archer": {
+      "matchedName": "Archer",
+      "name": "Archer",
+      "objectId": 4,
+      "src": "assets/units/archer.png"
+    },
+    "ballista_elephant": {
+      "matchedName": "Ballista Elephant",
+      "name": "Ballista Elephant",
+      "objectId": 1120,
+      "src": "assets/units/ballista_elephant.png"
+    },
+    "battering_ram": {
+      "matchedName": "Battering Ram",
+      "name": "Battering Ram",
+      "objectId": 35,
+      "src": "assets/units/battering_ram.png"
+    },
+    "battle_elephant": {
+      "matchedName": "Battle Elephant",
+      "name": "Battle Elephant",
+      "objectId": 1132,
+      "src": "assets/units/battle_elephant.png"
+    },
+    "berserk": {
+      "matchedName": "Berserk",
+      "name": "Berserk",
+      "objectId": 94,
+      "src": "assets/units/berserk.png"
+    },
+    "bombard_cannon": {
+      "matchedName": "Bombard Cannon",
+      "name": "Bombard Cannon",
+      "objectId": 36,
+      "src": "assets/units/bombard_cannon.png"
+    },
+    "boyar": {
+      "matchedName": "Boyar",
+      "name": "Boyar",
+      "objectId": 876,
+      "src": "assets/units/boyar.png"
+    },
+    "camel_archer": {
+      "matchedName": "Camel Archer",
+      "name": "Camel Archer",
+      "objectId": 1007,
+      "src": "assets/units/camel_archer.png"
+    },
+    "camel_rider": {
+      "matchedName": "Camel Rider",
+      "name": "Camel Rider",
+      "objectId": 329,
+      "src": "assets/units/camel_rider.png"
+    },
+    "capped_ram": {
+      "matchedName": "Capped Ram",
+      "name": "Capped Ram",
+      "objectId": 422,
+      "src": "assets/units/capped_ram.jpg"
+    },
+    "cataphract": {
+      "matchedName": "Cataphract",
+      "name": "Cataphract",
+      "objectId": 40,
+      "src": "assets/units/cataphract.png"
+    },
+    "cavalier": {
+      "matchedName": "Cavalier",
+      "name": "Cavalier",
+      "objectId": 283,
+      "src": "assets/units/cavalier.png"
+    },
+    "cavalry_archer": {
+      "matchedName": "Cavalry Archer",
+      "name": "Cavalry Archer",
+      "objectId": 39,
+      "src": "assets/units/cavalry_archer.png"
+    },
+    "centurion": {
+      "matchedName": "Centurion",
+      "name": "Centurion",
+      "objectId": 275,
+      "src": "assets/units/centurion.png"
+    },
+    "champion": {
+      "matchedName": "Champion",
+      "name": "Champion",
+      "objectId": 567,
+      "src": "assets/units/champion.png"
+    },
+    "chu_ko_nu": {
+      "matchedName": "Chu Ko Nu",
+      "name": "Chu Ko Nu",
+      "objectId": 73,
+      "src": "assets/units/chu_ko_nu.png"
+    },
+    "condottiero": {
+      "matchedName": "Condottiero",
+      "name": "Condottiero",
+      "objectId": 184,
+      "src": "assets/units/condottiero.png"
+    },
+    "conquistador": {
+      "matchedName": "Conquistador",
+      "name": "Conquistador",
+      "objectId": 771,
+      "src": "assets/units/conquistador.png"
+    },
+    "crossbowman": {
+      "matchedName": "Crossbowman",
+      "name": "Crossbowman",
+      "objectId": 24,
+      "src": "assets/units/crossbowman.png"
+    },
+    "eagle_scout": {
+      "matchedName": "Eagle Scout",
+      "name": "Eagle Scout",
+      "objectId": 751,
+      "src": "assets/units/eagle_scout.png"
+    },
+    "eagle_warrior": {
+      "matchedName": "Eagle Warrior",
+      "name": "Eagle Warrior",
+      "objectId": 753,
+      "src": "assets/units/eagle_warrior.png"
+    },
+    "elephant_archer": {
+      "matchedName": "Elephant Archer",
+      "name": "Elephant Archer",
+      "objectId": 873,
+      "src": "assets/units/elephant_archer.png"
+    },
+    "elite_battle_elephant": {
+      "matchedName": "Elite Battle Elephant",
+      "name": "Elite Battle Elephant",
+      "objectId": 1134,
+      "src": "assets/units/elite_battle_elephant.png"
+    },
+    "elite_eagle_warrior": {
+      "matchedName": "Elite Eagle Warrior",
+      "name": "Elite Eagle Warrior",
+      "objectId": 752,
+      "src": "assets/units/elite_eagle_warrior.png"
+    },
+    "elite_skirmisher": {
+      "matchedName": "Elite Skirmisher",
+      "name": "Elite Skirmisher",
+      "objectId": 6,
+      "src": "assets/units/elite_skirmisher.png"
+    },
+    "elite_steppe_lancer": {
+      "matchedName": "Elite Steppe Lancer",
+      "name": "Elite Steppe Lancer",
+      "objectId": 1372,
+      "src": "assets/units/elite_steppe_lancer.png"
+    },
+    "gbeto": {
+      "matchedName": "Gbeto",
+      "name": "Gbeto",
+      "objectId": 1013,
+      "src": "assets/units/gbeto.png"
+    },
+    "genitour": {
+      "matchedName": "Genitour",
+      "name": "Genitour",
+      "objectId": 583,
+      "src": "assets/units/genitour.png"
+    },
+    "genoese_crossbowman": {
+      "matchedName": "Genoese Crossbowman",
+      "name": "Genoese Crossbowman",
+      "objectId": 866,
+      "src": "assets/units/genoese_crossbowman.png"
+    },
+    "halberdier": {
+      "matchedName": "Halberdier",
+      "name": "Halberdier",
+      "objectId": 359,
+      "src": "assets/units/halberdier.png"
+    },
+    "hand_cannoneer": {
+      "matchedName": "Hand Cannoneer",
+      "name": "Hand Cannoneer",
+      "objectId": 5,
+      "src": "assets/units/hand_cannoneer.png"
+    },
+    "heavy_camel_rider": {
+      "matchedName": "Heavy Camel Rider",
+      "name": "Heavy Camel Rider",
+      "objectId": 330,
+      "src": "assets/units/heavy_camel_rider.png"
+    },
+    "heavy_cav_archer": {
+      "matchedName": "Heavy Cavalry Archer",
+      "name": "Heavy Cavalry Archer",
+      "objectId": 474,
+      "src": "assets/units/heavy_cav_archer.png"
+    },
+    "heavy_scorpion": {
+      "matchedName": "Heavy Scorpion",
+      "name": "Heavy Scorpion",
+      "objectId": 542,
+      "src": "assets/units/heavy_scorpion.jpg"
+    },
+    "huskarl": {
+      "matchedName": "Huskarl",
+      "name": "Huskarl",
+      "objectId": 41,
+      "src": "assets/units/huskarl.png"
+    },
+    "hussar": {
+      "matchedName": "Hussar",
+      "name": "Hussar",
+      "objectId": 441,
+      "src": "assets/units/hussar.png"
+    },
+    "imperial_camel_rider": {
+      "matchedName": "Imperial Camel Rider",
+      "name": "Imperial Camel Rider",
+      "objectId": 207,
+      "src": "assets/units/imperial_camel_rider.png"
+    },
+    "imperial_skirmisher": {
+      "matchedName": "Imperial Skirmisher",
+      "name": "Imperial Skirmisher",
+      "objectId": 1155,
+      "src": "assets/units/imperial_skirmisher.png"
+    },
+    "jaguar_warrior": {
+      "matchedName": "Jaguar Warrior",
+      "name": "Jaguar Warrior",
+      "objectId": 725,
+      "src": "assets/units/jaguar_warrior.png"
+    },
+    "janissary": {
+      "matchedName": "Janissary",
+      "name": "Janissary",
+      "objectId": 46,
+      "src": "assets/units/janissary.png"
+    },
+    "kamayuk": {
+      "matchedName": "Kamayuk",
+      "name": "Kamayuk",
+      "objectId": 879,
+      "src": "assets/units/kamayuk.png"
+    },
+    "karambit_warrior": {
+      "matchedName": "Karambit Warrior",
+      "name": "Karambit Warrior",
+      "objectId": 1123,
+      "src": "assets/units/karambit_warrior.png"
+    },
+    "keshik": {
+      "matchedName": "Keshik",
+      "name": "Keshik",
+      "objectId": 1228,
+      "src": "assets/units/keshik.png"
+    },
+    "knight": {
+      "matchedName": "Knight",
+      "name": "Knight",
+      "objectId": 38,
+      "src": "assets/units/knight.png"
+    },
+    "konnik": {
+      "matchedName": "Konnik",
+      "name": "Konnik",
+      "objectId": 1225,
+      "src": "assets/units/konnik.png"
+    },
+    "legionary": {
+      "matchedName": "Legionary",
+      "name": "Legionary",
+      "objectId": 1,
+      "src": "assets/units/legionary.png"
+    },
+    "leitis": {
+      "matchedName": "Leitis",
+      "name": "Leitis",
+      "objectId": 1234,
+      "src": "assets/units/leitis.png"
+    },
+    "light_cavalry": {
+      "matchedName": "Light Cavalry",
+      "name": "Light Cavalry",
+      "objectId": 37,
+      "src": "assets/units/light_cavalry.png"
+    },
+    "long_swordsman": {
+      "matchedName": "Long Swordsman",
+      "name": "Long Swordsman",
+      "objectId": 77,
+      "src": "assets/units/long_swordsman.png"
+    },
+    "longbowman": {
+      "matchedName": "Longbowman",
+      "name": "Longbowman",
+      "objectId": 8,
+      "src": "assets/units/longbowman.png"
+    },
+    "magyar_huszar": {
+      "matchedName": "Magyar Huszar",
+      "name": "Magyar Huszar",
+      "objectId": 869,
+      "src": "assets/units/magyar_huszar.png"
+    },
+    "mameluke": {
+      "matchedName": "Mameluke",
+      "name": "Mameluke",
+      "objectId": 282,
+      "src": "assets/units/mameluke.png"
+    },
+    "man_at_arms": {
+      "matchedName": "Man-at-Arms",
+      "name": "Man-at-Arms",
+      "objectId": 75,
+      "src": "assets/units/man_at_arms.png"
+    },
+    "mangonel": {
+      "matchedName": "Mangonel",
+      "name": "Mangonel",
+      "objectId": 280,
+      "src": "assets/units/mangonel.png"
+    },
+    "mangudai": {
+      "matchedName": "Mangudai",
+      "name": "Mangudai",
+      "objectId": 11,
+      "src": "assets/units/mangudai.png"
+    },
+    "militia": {
+      "matchedName": "Militia",
+      "name": "Militia",
+      "objectId": 74,
+      "src": "assets/units/militia.png"
+    },
+    "missionary": {
+      "matchedName": "Missionary",
+      "name": "Missionary",
+      "objectId": 775,
+      "src": "assets/units/missionary.png"
+    },
+    "monk": {
+      "matchedName": "Monk",
+      "name": "Monk",
+      "objectId": 125,
+      "src": "assets/units/monk.png"
+    },
+    "onager": {
+      "matchedName": "Onager",
+      "name": "Onager",
+      "objectId": 550,
+      "src": "assets/units/onager.png"
+    },
+    "paladin": {
+      "matchedName": "Paladin",
+      "name": "Paladin",
+      "objectId": 569,
+      "src": "assets/units/paladin.png"
+    },
+    "pikeman": {
+      "matchedName": "Pikeman",
+      "name": "Pikeman",
+      "objectId": 358,
+      "src": "assets/units/pikeman.png"
+    },
+    "plumed_archer": {
+      "matchedName": "Plumed Archer",
+      "name": "Plumed Archer",
+      "objectId": 763,
+      "src": "assets/units/plumed_archer.png"
+    },
+    "rattan_archer": {
+      "matchedName": "Rattan Archer",
+      "name": "Rattan Archer",
+      "objectId": 1129,
+      "src": "assets/units/rattan_archer.png"
+    },
+    "samurai": {
+      "matchedName": "Samurai",
+      "name": "Samurai",
+      "objectId": 291,
+      "src": "assets/units/samurai.png"
+    },
+    "scorpion": {
+      "matchedName": "Scorpion",
+      "name": "Scorpion",
+      "objectId": 279,
+      "src": "assets/units/scorpion.jpg"
+    },
+    "scout_cavalry": {
+      "matchedName": "Scout Cavalry",
+      "name": "Scout Cavalry",
+      "objectId": 448,
+      "src": "assets/units/scout_cavalry.png"
+    },
+    "shotel_warrior": {
+      "matchedName": "Shotel Warrior",
+      "name": "Shotel Warrior",
+      "objectId": 1016,
+      "src": "assets/units/shotel_warrior.png"
+    },
+    "siege_onager": {
+      "matchedName": "Siege Onager",
+      "name": "Siege Onager",
+      "objectId": 588,
+      "src": "assets/units/siege_onager.png"
+    },
+    "siege_ram": {
+      "matchedName": "Siege Ram",
+      "name": "Siege Ram",
+      "objectId": 548,
+      "src": "assets/units/siege_ram.jpg"
+    },
+    "siege_tower": {
+      "matchedName": "Siege Tower",
+      "name": "Siege Tower",
+      "objectId": 885,
+      "src": "assets/units/siege_tower.png"
+    },
+    "skirmisher": {
+      "matchedName": "Skirmisher",
+      "name": "Skirmisher",
+      "objectId": 7,
+      "src": "assets/units/skirmisher.png"
+    },
+    "slinger": {
+      "matchedName": "Slinger",
+      "name": "Slinger",
+      "objectId": 185,
+      "src": "assets/units/slinger.png"
+    },
+    "spearman": {
+      "matchedName": "Spearman",
+      "name": "Spearman",
+      "objectId": 93,
+      "src": "assets/units/spearman.png"
+    },
+    "steppe_lancer": {
+      "matchedName": "Steppe Lancer",
+      "name": "Steppe Lancer",
+      "objectId": 1370,
+      "src": "assets/units/steppe_lancer.png"
+    },
+    "tarkan": {
+      "matchedName": "Tarkan",
+      "name": "Tarkan",
+      "objectId": 755,
+      "src": "assets/units/tarkan.png"
+    },
+    "teutonic_knight": {
+      "matchedName": "Teutonic Knight",
+      "name": "Teutonic Knight",
+      "objectId": 25,
+      "src": "assets/units/teutonic_knight.png"
+    },
+    "throwing_axeman": {
+      "matchedName": "Throwing Axeman",
+      "name": "Throwing Axeman",
+      "objectId": 281,
+      "src": "assets/units/throwing_axeman.png"
+    },
+    "trebuchet": {
+      "matchedName": "Trebuchet",
+      "name": "Trebuchet",
+      "objectId": 42,
+      "src": "assets/units/trebuchet.png"
+    },
+    "war_elephant": {
+      "matchedName": "War Elephant",
+      "name": "War Elephant",
+      "objectId": 239,
+      "src": "assets/units/war_elephant.png"
+    },
+    "war_wagon": {
+      "matchedName": "War Wagon",
+      "name": "War Wagon",
+      "objectId": 827,
+      "src": "assets/units/war_wagon.png"
+    },
+    "woad_raider": {
+      "matchedName": "Woad Raider",
+      "name": "Woad Raider",
+      "objectId": 232,
+      "src": "assets/units/woad_raider.png"
+    }
+  },
+  "unmatched_civs": [
+    {
+      "iconId": "45",
+      "id": "achaemenids",
+      "name": "Achaemenids",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "0",
+      "id": "armenians",
+      "name": "Armenians",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "46",
+      "id": "athenians",
+      "name": "Athenians",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "51",
+      "id": "jurchens",
+      "name": "Jurchens",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "52",
+      "id": "khitans",
+      "name": "Khitans",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "53",
+      "id": "macedonians",
+      "name": "Macedonians",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "57",
+      "id": "mapuche",
+      "name": "Mapuche",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "56",
+      "id": "muisca",
+      "name": "Muisca",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "55",
+      "id": "puru",
+      "name": "Puru",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "48",
+      "id": "shu",
+      "name": "Shu",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "47",
+      "id": "spartans",
+      "name": "Spartans",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "54",
+      "id": "thracians",
+      "name": "Thracians",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "58",
+      "id": "tupi",
+      "name": "Tupi",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "43",
+      "id": "vietnamese",
+      "name": "Vietnamese",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "44",
+      "id": "vikings",
+      "name": "Vikings",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "50",
+      "id": "wei",
+      "name": "Wei",
+      "reason": "no icon file"
+    },
+    {
+      "iconId": "49",
+      "id": "wu",
+      "name": "Wu",
+      "reason": "no icon file"
+    }
+  ],
+  "unmatched_units": [
+    {
+      "id": "two_handed_swordsman",
+      "name": "Two-Handed Swordsman",
+      "objectId": "473",
+      "reason": "no icon file"
+    },
+    {
+      "id": "winged_hussar",
+      "name": "Winged Hussar",
+      "objectId": "1707",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_longbowman",
+      "name": "Elite Longbowman",
+      "objectId": "530",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_throwing_axeman",
+      "name": "Elite Throwing Axeman",
+      "objectId": "531",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_teutonic_knight",
+      "name": "Elite Teutonic Knight",
+      "objectId": "554",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_mangudai",
+      "name": "Elite Mangudai",
+      "objectId": "561",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_cataphract",
+      "name": "Elite Cataphract",
+      "objectId": "553",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_mameluke",
+      "name": "Elite Mameluke",
+      "objectId": "556",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_woad_raider",
+      "name": "Elite Woad Raider",
+      "objectId": "534",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_samurai",
+      "name": "Elite Samurai",
+      "objectId": "560",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_huskarl",
+      "name": "Elite Huskarl",
+      "objectId": "555",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_janissary",
+      "name": "Elite Janissary",
+      "objectId": "557",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_berserk",
+      "name": "Elite Berserk",
+      "objectId": "694",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_war_wagon",
+      "name": "Elite War Wagon",
+      "objectId": "829",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_plumed_archer",
+      "name": "Elite Plumed Archer",
+      "objectId": "765",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_jaguar_warrior",
+      "name": "Elite Jaguar Warrior",
+      "objectId": "726",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_tarkan",
+      "name": "Elite Tarkan",
+      "objectId": "757",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_war_elephant",
+      "name": "Elite War Elephant",
+      "objectId": "558",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_conquistador",
+      "name": "Elite Conquistador",
+      "objectId": "773",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_chu_ko_nu",
+      "name": "Elite Chu Ko Nu",
+      "objectId": "559",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_boyar",
+      "name": "Elite Boyar",
+      "objectId": "878",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_elephant_archer",
+      "name": "Elite Elephant Archer",
+      "objectId": "875",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_genoese_crossbowman",
+      "name": "Elite Genoese Crossbowman",
+      "objectId": "868",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_magyar_huszar",
+      "name": "Elite Magyar Huszar",
+      "objectId": "871",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_kamayuk",
+      "name": "Elite Kamayuk",
+      "objectId": "881",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_camel_archer",
+      "name": "Elite Camel Archer",
+      "objectId": "1009",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_genitour",
+      "name": "Elite Genitour",
+      "objectId": "596",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_gbeto",
+      "name": "Elite Gbeto",
+      "objectId": "1015",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_shotel_warrior",
+      "name": "Elite Shotel Warrior",
+      "objectId": "1018",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_ballista_elephant",
+      "name": "Elite Ballista Elephant",
+      "objectId": "1122",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_karambit_warrior",
+      "name": "Elite Karambit Warrior",
+      "objectId": "1125",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_arambai",
+      "name": "Elite Arambai",
+      "objectId": "1128",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_rattan_archer",
+      "name": "Elite Rattan Archer",
+      "objectId": "1131",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_konnik",
+      "name": "Elite Konnik",
+      "objectId": "1227",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_keshik",
+      "name": "Elite Keshik",
+      "objectId": "1230",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_leitis",
+      "name": "Elite Leitis",
+      "objectId": "1236",
+      "reason": "no icon file"
+    },
+    {
+      "id": "coustillier",
+      "name": "Coustillier",
+      "objectId": "1655",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_coustillier",
+      "name": "Elite Coustillier",
+      "objectId": "1657",
+      "reason": "no icon file"
+    },
+    {
+      "id": "flemish_militia",
+      "name": "Flemish Militia",
+      "objectId": "1697",
+      "reason": "no icon file"
+    },
+    {
+      "id": "serjeant",
+      "name": "Serjeant",
+      "objectId": "1658",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_serjeant",
+      "name": "Elite Serjeant",
+      "objectId": "1659",
+      "reason": "no icon file"
+    },
+    {
+      "id": "obuch",
+      "name": "Obuch",
+      "objectId": "1701",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_obuch",
+      "name": "Elite Obuch",
+      "objectId": "1703",
+      "reason": "no icon file"
+    },
+    {
+      "id": "hussite_wagon",
+      "name": "Hussite Wagon",
+      "objectId": "1704",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_hussite_wagon",
+      "name": "Elite Hussite Wagon",
+      "objectId": "1706",
+      "reason": "no icon file"
+    },
+    {
+      "id": "houfnice",
+      "name": "Houfnice",
+      "objectId": "1709",
+      "reason": "no icon file"
+    },
+    {
+      "id": "ghulam",
+      "name": "Ghulam",
+      "objectId": "1747",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_ghulam",
+      "name": "Elite Ghulam",
+      "objectId": "1749",
+      "reason": "no icon file"
+    },
+    {
+      "id": "chakram_thrower",
+      "name": "Chakram Thrower",
+      "objectId": "1741",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_chakram_thrower",
+      "name": "Elite Chakram Thrower",
+      "objectId": "1743",
+      "reason": "no icon file"
+    },
+    {
+      "id": "ratha",
+      "name": "Ratha",
+      "objectId": "1738",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_ratha",
+      "name": "Elite Ratha",
+      "objectId": "1740",
+      "reason": "no icon file"
+    },
+    {
+      "id": "urumi_swordsman",
+      "name": "Urumi Swordsman",
+      "objectId": "1735",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_urumi_swordsman",
+      "name": "Elite Urumi Swordsman",
+      "objectId": "1737",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_centurion",
+      "name": "Elite Centurion"
+    },
+    {
+      "id": "monaspa",
+      "name": "Monaspa",
+      "objectId": "1803",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_monaspa",
+      "name": "Elite Monaspa"
+    },
+    {
+      "id": "composite_bowman",
+      "name": "Composite Bowman",
+      "objectId": "1800",
+      "reason": "no icon file"
+    },
+    {
+      "id": "elite_composite_bowman",
+      "name": "Elite Composite Bowman"
+    }
+  ]
+}
