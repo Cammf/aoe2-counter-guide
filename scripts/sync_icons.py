@@ -90,20 +90,59 @@ for u in units:
         continue
     objid, matched_name = find_objid(name)
     if not objid:
+        # If we can't find an object id, still try elite fallback to base icon.
+        if uid.startswith('elite_'):
+            base_uid = uid[len('elite_'):]
+            base_entry = manifest['units'].get(base_uid)
+            if base_entry:
+                src_path = REPO / base_entry['src']
+                if src_path.exists():
+                    dest_path = OUT_UNITS_DIR / f"{uid}{src_path.suffix}"
+                    shutil.copyfile(src_path, dest_path)
+                    fname = dest_path.name
+                    manifest['units'][uid] = {
+                        'name': name,
+                        'objectId': None,
+                        'src': f'assets/units/{fname}',
+                        'fallbackFrom': base_uid,
+                        'reason': 'elite fallback (no objectId match)'
+                    }
+                    continue
         manifest['unmatched_units'].append({'id':uid,'name':name})
         continue
     src_base = ICON_SRC / 'objects' / objid
     dest_base = OUT_UNITS_DIR / uid
     fname = copy_best(src_base, dest_base)
+
+    # Fallback: if we don't have a dedicated icon for elite variants,
+    # reuse the base unit icon (Option 1).
+    fallback_from = None
+    if not fname and uid.startswith('elite_'):
+        base_uid = uid[len('elite_'):]
+        # if base already in manifest, reuse its asset file by copying it
+        base_entry = manifest['units'].get(base_uid)
+        if base_entry:
+            src_path = REPO / base_entry['src']
+            if src_path.exists():
+                # preserve extension
+                dest_path = OUT_UNITS_DIR / f"{uid}{src_path.suffix}"
+                shutil.copyfile(src_path, dest_path)
+                fname = dest_path.name
+                fallback_from = base_uid
+
     if not fname:
         manifest['unmatched_units'].append({'id':uid,'name':name,'objectId':objid,'reason':'no icon file'})
         continue
-    manifest['units'][uid] = {
+
+    entry = {
         'name': name,
         'objectId': int(objid),
         'src': f'assets/units/{fname}',
         **({'matchedName': matched_name} if matched_name else {})
     }
+    if fallback_from:
+        entry['fallbackFrom'] = fallback_from
+    manifest['units'][uid] = entry
 
 # civs
 for c in civs:

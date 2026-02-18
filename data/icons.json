@@ -356,17 +356,220 @@
       "objectId": 873,
       "src": "assets/units/elephant_archer.png"
     },
+    "elite_arambai": {
+      "fallbackFrom": "arambai",
+      "matchedName": "Elite Arambai",
+      "name": "Elite Arambai",
+      "objectId": 1128,
+      "src": "assets/units/elite_arambai.png"
+    },
+    "elite_ballista_elephant": {
+      "fallbackFrom": "ballista_elephant",
+      "matchedName": "Elite Ballista Elephant",
+      "name": "Elite Ballista Elephant",
+      "objectId": 1122,
+      "src": "assets/units/elite_ballista_elephant.png"
+    },
     "elite_battle_elephant": {
       "matchedName": "Elite Battle Elephant",
       "name": "Elite Battle Elephant",
       "objectId": 1134,
       "src": "assets/units/elite_battle_elephant.png"
     },
+    "elite_berserk": {
+      "fallbackFrom": "berserk",
+      "matchedName": "Elite Berserk",
+      "name": "Elite Berserk",
+      "objectId": 694,
+      "src": "assets/units/elite_berserk.png"
+    },
+    "elite_boyar": {
+      "fallbackFrom": "boyar",
+      "matchedName": "Elite Boyar",
+      "name": "Elite Boyar",
+      "objectId": 878,
+      "src": "assets/units/elite_boyar.png"
+    },
+    "elite_camel_archer": {
+      "fallbackFrom": "camel_archer",
+      "matchedName": "Elite Camel Archer",
+      "name": "Elite Camel Archer",
+      "objectId": 1009,
+      "src": "assets/units/elite_camel_archer.png"
+    },
+    "elite_cataphract": {
+      "fallbackFrom": "cataphract",
+      "matchedName": "Elite Cataphract",
+      "name": "Elite Cataphract",
+      "objectId": 553,
+      "src": "assets/units/elite_cataphract.png"
+    },
+    "elite_centurion": {
+      "fallbackFrom": "centurion",
+      "name": "Elite Centurion",
+      "objectId": null,
+      "reason": "elite fallback (no objectId match)",
+      "src": "assets/units/elite_centurion.png"
+    },
+    "elite_chu_ko_nu": {
+      "fallbackFrom": "chu_ko_nu",
+      "matchedName": "Elite Chu Ko Nu",
+      "name": "Elite Chu Ko Nu",
+      "objectId": 559,
+      "src": "assets/units/elite_chu_ko_nu.png"
+    },
+    "elite_conquistador": {
+      "fallbackFrom": "conquistador",
+      "matchedName": "Elite Conquistador",
+      "name": "Elite Conquistador",
+      "objectId": 773,
+      "src": "assets/units/elite_conquistador.png"
+    },
     "elite_eagle_warrior": {
       "matchedName": "Elite Eagle Warrior",
       "name": "Elite Eagle Warrior",
       "objectId": 752,
       "src": "assets/units/elite_eagle_warrior.png"
+    },
+    "elite_elephant_archer": {
+      "fallbackFrom": "elephant_archer",
+      "matchedName": "Elite Elephant Archer",
+      "name": "Elite Elephant Archer",
+      "objectId": 875,
+      "src": "assets/units/elite_elephant_archer.png"
+    },
+    "elite_gbeto": {
+      "fallbackFrom": "gbeto",
+      "matchedName": "Elite Gbeto",
+      "name": "Elite Gbeto",
+      "objectId": 1015,
+      "src": "assets/units/elite_gbeto.png"
+    },
+    "elite_genitour": {
+      "fallbackFrom": "genitour",
+      "matchedName": "Elite Genitour",
+      "name": "Elite Genitour",
+      "objectId": 596,
+      "src": "assets/units/elite_genitour.png"
+    },
+    "elite_genoese_crossbowman": {
+      "fallbackFrom": "genoese_crossbowman",
+      "matchedName": "Elite Genoese Crossbowman",
+      "name": "Elite Genoese Crossbowman",
+      "objectId": 868,
+      "src": "assets/units/elite_genoese_crossbowman.png"
+    },
+    "elite_huskarl": {
+      "fallbackFrom": "huskarl",
+      "matchedName": "Elite Huskarl",
+      "name": "Elite Huskarl",
+      "objectId": 555,
+      "src": "assets/units/elite_huskarl.png"
+    },
+    "elite_jaguar_warrior": {
+      "fallbackFrom": "jaguar_warrior",
+      "matchedName": "Elite Jaguar Warrior",
+      "name": "Elite Jaguar Warrior",
+      "objectId": 726,
+      "src": "assets/units/elite_jaguar_warrior.png"
+    },
+    "elite_janissary": {
+      "fallbackFrom": "janissary",
+      "matchedName": "Elite Janissary",
+      "name": "Elite Janissary",
+      "objectId": 557,
+      "src": "assets/units/elite_janissary.png"
+    },
+    "elite_kamayuk": {
+      "fallbackFrom": "kamayuk",
+      "matchedName": "Elite Kamayuk",
+      "name": "Elite Kamayuk",
+      "objectId": 881,
+      "src": "assets/units/elite_kamayuk.png"
+    },
+    "elite_karambit_warrior": {
+      "fallbackFrom": "karambit_warrior",
+      "matchedName": "Elite Karambit Warrior",
+      "name": "Elite Karambit Warrior",
+      "objectId": 1125,
+      "src": "assets/units/elite_karambit_warrior.png"
+    },
+    "elite_keshik": {
+      "fallbackFrom": "keshik",
+      "matchedName": "Elite Keshik",
+      "name": "Elite Keshik",
+      "objectId": 1230,
+      "src": "assets/units/elite_keshik.png"
+    },
+    "elite_konnik": {
+      "fallbackFrom": "konnik",
+      "matchedName": "Elite Konnik",
+      "name": "Elite Konnik",
+      "objectId": 1227,
+      "src": "assets/units/elite_konnik.png"
+    },
+    "elite_leitis": {
+      "fallbackFrom": "leitis",
+      "matchedName": "Elite Leitis",
+      "name": "Elite Leitis",
+      "objectId": 1236,
+      "src": "assets/units/elite_leitis.png"
+    },
+    "elite_longbowman": {
+      "fallbackFrom": "longbowman",
+      "matchedName": "Elite Longbowman",
+      "name": "Elite Longbowman",
+      "objectId": 530,
+      "src": "assets/units/elite_longbowman.png"
+    },
+    "elite_magyar_huszar": {
+      "fallbackFrom": "magyar_huszar",
+      "matchedName": "Elite Magyar Huszar",
+      "name": "Elite Magyar Huszar",
+      "objectId": 871,
+      "src": "assets/units/elite_magyar_huszar.png"
+    },
+    "elite_mameluke": {
+      "fallbackFrom": "mameluke",
+      "matchedName": "Elite Mameluke",
+      "name": "Elite Mameluke",
+      "objectId": 556,
+      "src": "assets/units/elite_mameluke.png"
+    },
+    "elite_mangudai": {
+      "fallbackFrom": "mangudai",
+      "matchedName": "Elite Mangudai",
+      "name": "Elite Mangudai",
+      "objectId": 561,
+      "src": "assets/units/elite_mangudai.png"
+    },
+    "elite_plumed_archer": {
+      "fallbackFrom": "plumed_archer",
+      "matchedName": "Elite Plumed Archer",
+      "name": "Elite Plumed Archer",
+      "objectId": 765,
+      "src": "assets/units/elite_plumed_archer.png"
+    },
+    "elite_rattan_archer": {
+      "fallbackFrom": "rattan_archer",
+      "matchedName": "Elite Rattan Archer",
+      "name": "Elite Rattan Archer",
+      "objectId": 1131,
+      "src": "assets/units/elite_rattan_archer.png"
+    },
+    "elite_samurai": {
+      "fallbackFrom": "samurai",
+      "matchedName": "Elite Samurai",
+      "name": "Elite Samurai",
+      "objectId": 560,
+      "src": "assets/units/elite_samurai.png"
+    },
+    "elite_shotel_warrior": {
+      "fallbackFrom": "shotel_warrior",
+      "matchedName": "Elite Shotel Warrior",
+      "name": "Elite Shotel Warrior",
+      "objectId": 1018,
+      "src": "assets/units/elite_shotel_warrior.png"
     },
     "elite_skirmisher": {
       "matchedName": "Elite Skirmisher",
@@ -379,6 +582,48 @@
       "name": "Elite Steppe Lancer",
       "objectId": 1372,
       "src": "assets/units/elite_steppe_lancer.png"
+    },
+    "elite_tarkan": {
+      "fallbackFrom": "tarkan",
+      "matchedName": "Elite Tarkan",
+      "name": "Elite Tarkan",
+      "objectId": 757,
+      "src": "assets/units/elite_tarkan.png"
+    },
+    "elite_teutonic_knight": {
+      "fallbackFrom": "teutonic_knight",
+      "matchedName": "Elite Teutonic Knight",
+      "name": "Elite Teutonic Knight",
+      "objectId": 554,
+      "src": "assets/units/elite_teutonic_knight.png"
+    },
+    "elite_throwing_axeman": {
+      "fallbackFrom": "throwing_axeman",
+      "matchedName": "Elite Throwing Axeman",
+      "name": "Elite Throwing Axeman",
+      "objectId": 531,
+      "src": "assets/units/elite_throwing_axeman.png"
+    },
+    "elite_war_elephant": {
+      "fallbackFrom": "war_elephant",
+      "matchedName": "Elite War Elephant",
+      "name": "Elite War Elephant",
+      "objectId": 558,
+      "src": "assets/units/elite_war_elephant.png"
+    },
+    "elite_war_wagon": {
+      "fallbackFrom": "war_wagon",
+      "matchedName": "Elite War Wagon",
+      "name": "Elite War Wagon",
+      "objectId": 829,
+      "src": "assets/units/elite_war_wagon.png"
+    },
+    "elite_woad_raider": {
+      "fallbackFrom": "woad_raider",
+      "matchedName": "Elite Woad Raider",
+      "name": "Elite Woad Raider",
+      "objectId": 534,
+      "src": "assets/units/elite_woad_raider.png"
     },
     "gbeto": {
       "matchedName": "Gbeto",
@@ -829,210 +1074,6 @@
       "reason": "no icon file"
     },
     {
-      "id": "elite_longbowman",
-      "name": "Elite Longbowman",
-      "objectId": "530",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_throwing_axeman",
-      "name": "Elite Throwing Axeman",
-      "objectId": "531",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_teutonic_knight",
-      "name": "Elite Teutonic Knight",
-      "objectId": "554",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_mangudai",
-      "name": "Elite Mangudai",
-      "objectId": "561",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_cataphract",
-      "name": "Elite Cataphract",
-      "objectId": "553",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_mameluke",
-      "name": "Elite Mameluke",
-      "objectId": "556",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_woad_raider",
-      "name": "Elite Woad Raider",
-      "objectId": "534",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_samurai",
-      "name": "Elite Samurai",
-      "objectId": "560",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_huskarl",
-      "name": "Elite Huskarl",
-      "objectId": "555",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_janissary",
-      "name": "Elite Janissary",
-      "objectId": "557",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_berserk",
-      "name": "Elite Berserk",
-      "objectId": "694",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_war_wagon",
-      "name": "Elite War Wagon",
-      "objectId": "829",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_plumed_archer",
-      "name": "Elite Plumed Archer",
-      "objectId": "765",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_jaguar_warrior",
-      "name": "Elite Jaguar Warrior",
-      "objectId": "726",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_tarkan",
-      "name": "Elite Tarkan",
-      "objectId": "757",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_war_elephant",
-      "name": "Elite War Elephant",
-      "objectId": "558",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_conquistador",
-      "name": "Elite Conquistador",
-      "objectId": "773",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_chu_ko_nu",
-      "name": "Elite Chu Ko Nu",
-      "objectId": "559",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_boyar",
-      "name": "Elite Boyar",
-      "objectId": "878",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_elephant_archer",
-      "name": "Elite Elephant Archer",
-      "objectId": "875",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_genoese_crossbowman",
-      "name": "Elite Genoese Crossbowman",
-      "objectId": "868",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_magyar_huszar",
-      "name": "Elite Magyar Huszar",
-      "objectId": "871",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_kamayuk",
-      "name": "Elite Kamayuk",
-      "objectId": "881",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_camel_archer",
-      "name": "Elite Camel Archer",
-      "objectId": "1009",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_genitour",
-      "name": "Elite Genitour",
-      "objectId": "596",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_gbeto",
-      "name": "Elite Gbeto",
-      "objectId": "1015",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_shotel_warrior",
-      "name": "Elite Shotel Warrior",
-      "objectId": "1018",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_ballista_elephant",
-      "name": "Elite Ballista Elephant",
-      "objectId": "1122",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_karambit_warrior",
-      "name": "Elite Karambit Warrior",
-      "objectId": "1125",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_arambai",
-      "name": "Elite Arambai",
-      "objectId": "1128",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_rattan_archer",
-      "name": "Elite Rattan Archer",
-      "objectId": "1131",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_konnik",
-      "name": "Elite Konnik",
-      "objectId": "1227",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_keshik",
-      "name": "Elite Keshik",
-      "objectId": "1230",
-      "reason": "no icon file"
-    },
-    {
-      "id": "elite_leitis",
-      "name": "Elite Leitis",
-      "objectId": "1236",
-      "reason": "no icon file"
-    },
-    {
       "id": "coustillier",
       "name": "Coustillier",
       "objectId": "1655",
@@ -1139,10 +1180,6 @@
       "name": "Elite Urumi Swordsman",
       "objectId": "1737",
       "reason": "no icon file"
-    },
-    {
-      "id": "elite_centurion",
-      "name": "Elite Centurion"
     },
     {
       "id": "monaspa",
