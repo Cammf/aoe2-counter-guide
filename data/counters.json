@@ -1,30 +1,830 @@
 {
-  "spearman": ["knight", "cavalier", "paladin", "scout_cavalry", "light_cavalry", "hussar", "camel_rider", "heavy_camel_rider"],
-  "pikeman": ["knight", "cavalier", "paladin", "scout_cavalry", "light_cavalry", "hussar", "camel_rider", "heavy_camel_rider"],
-  "halberdier": ["knight", "cavalier", "paladin", "scout_cavalry", "light_cavalry", "hussar", "camel_rider", "heavy_camel_rider"],
-  "skirmisher": ["archer", "crossbowman", "arbalester", "cavalry_archer", "heavy_cav_archer"],
-  "elite_skirmisher": ["archer", "crossbowman", "arbalester", "cavalry_archer", "heavy_cav_archer"],
-  "knight": ["spearman", "pikeman", "halberdier", "camel_rider", "heavy_camel_rider", "monk"],
-  "cavalier": ["pikeman", "halberdier", "camel_rider", "heavy_camel_rider", "monk"],
-  "paladin": ["pikeman", "halberdier", "heavy_camel_rider", "monk"],
-  "archer": ["skirmisher", "elite_skirmisher", "scout_cavalry", "light_cavalry", "hussar", "mangonel"],
-  "crossbowman": ["skirmisher", "elite_skirmisher", "light_cavalry", "hussar", "mangonel", "onager"],
-  "arbalester": ["elite_skirmisher", "hussar", "onager", "cavalier", "paladin"],
-  "cavalry_archer": ["elite_skirmisher", "pikeman", "halberdier", "camel_rider"],
-  "heavy_cav_archer": ["elite_skirmisher", "halberdier", "heavy_camel_rider"],
-  "scout_cavalry": ["spearman", "pikeman", "man_at_arms", "long_swordsman"],
-  "light_cavalry": ["spearman", "pikeman", "long_swordsman", "two_handed_swordsman"],
-  "hussar": ["pikeman", "halberdier", "two_handed_swordsman", "champion"],
-  "camel_rider": ["pikeman", "halberdier", "militia", "man_at_arms", "long_swordsman"],
-  "heavy_camel_rider": ["pikeman", "halberdier", "two_handed_swordsman", "champion"],
-  "monk": ["scout_cavalry", "light_cavalry", "hussar", "knight", "cavalier"],
-  "mangonel": ["knight", "cavalier", "light_cavalry", "hussar", "siege_ram"],
-  "onager": ["knight", "cavalier", "paladin", "hussar", "siege_ram"],
-  "siege_ram": ["mangonel", "onager", "champion", "two_handed_swordsman"],
-  "scorpion": ["knight", "cavalier", "hussar", "mangonel", "onager"],
-  "militia": ["archer", "crossbowman", "knight", "cavalier"],
-  "man_at_arms": ["archer", "crossbowman", "knight", "cavalier"],
-  "long_swordsman": ["crossbowman", "arbalester", "knight", "cavalier"],
-  "two_handed_swordsman": ["arbalester", "cavalier", "paladin", "heavy_cav_archer"],
-  "champion": ["arbalester", "paladin", "heavy_cav_archer", "onager"]
+  "arambai": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "arbalester": [
+    "elite_skirmisher",
+    "hussar",
+    "onager",
+    "cavalier",
+    "paladin"
+  ],
+  "archer": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry",
+    "hussar",
+    "mangonel"
+  ],
+  "ballista_elephant": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "battering_ram": [
+    "light_cavalry",
+    "hussar",
+    "knight"
+  ],
+  "battle_elephant": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "berserk": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "bombard_cannon": [
+    "light_cavalry",
+    "hussar",
+    "knight"
+  ],
+  "boyar": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "camel_archer": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "camel_rider": [
+    "pikeman",
+    "halberdier",
+    "militia",
+    "man_at_arms",
+    "long_swordsman"
+  ],
+  "capped_ram": [
+    "light_cavalry",
+    "hussar",
+    "knight"
+  ],
+  "cataphract": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "cavalier": [
+    "pikeman",
+    "halberdier",
+    "camel_rider",
+    "heavy_camel_rider",
+    "monk"
+  ],
+  "cavalry_archer": [
+    "elite_skirmisher",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "centurion": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "chakram_thrower": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "champion": [
+    "arbalester",
+    "paladin",
+    "heavy_cav_archer",
+    "onager"
+  ],
+  "chu_ko_nu": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "composite_bowman": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "condottiero": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "conquistador": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "coustillier": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "crossbowman": [
+    "skirmisher",
+    "elite_skirmisher",
+    "light_cavalry",
+    "hussar",
+    "mangonel",
+    "onager"
+  ],
+  "eagle_scout": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "eagle_warrior": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elephant_archer": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_arambai": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_ballista_elephant": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_battle_elephant": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_berserk": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_boyar": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_camel_archer": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_cataphract": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_centurion": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_chakram_thrower": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_chu_ko_nu": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_composite_bowman": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_conquistador": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_coustillier": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_eagle_warrior": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_elephant_archer": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_gbeto": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_genitour": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_genoese_crossbowman": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_ghulam": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_huskarl": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_hussite_wagon": [
+    "light_cavalry",
+    "hussar",
+    "knight"
+  ],
+  "elite_jaguar_warrior": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_janissary": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_kamayuk": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_karambit_warrior": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_keshik": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_konnik": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_leitis": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_longbowman": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_magyar_huszar": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_mameluke": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_mangudai": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_monaspa": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_obuch": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_plumed_archer": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_ratha": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_rattan_archer": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_samurai": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_serjeant": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_shotel_warrior": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_skirmisher": [
+    "archer",
+    "crossbowman",
+    "arbalester",
+    "cavalry_archer",
+    "heavy_cav_archer"
+  ],
+  "elite_steppe_lancer": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_tarkan": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_teutonic_knight": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_throwing_axeman": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_urumi_swordsman": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "elite_war_elephant": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "elite_war_wagon": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "elite_woad_raider": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "flemish_militia": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "gbeto": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "genitour": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "genoese_crossbowman": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "ghulam": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "halberdier": [
+    "knight",
+    "cavalier",
+    "paladin",
+    "scout_cavalry",
+    "light_cavalry",
+    "hussar",
+    "camel_rider",
+    "heavy_camel_rider"
+  ],
+  "hand_cannoneer": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "heavy_camel_rider": [
+    "pikeman",
+    "halberdier",
+    "two_handed_swordsman",
+    "champion"
+  ],
+  "heavy_cav_archer": [
+    "elite_skirmisher",
+    "halberdier",
+    "heavy_camel_rider"
+  ],
+  "heavy_scorpion": [
+    "light_cavalry",
+    "hussar",
+    "knight"
+  ],
+  "houfnice": [
+    "light_cavalry",
+    "hussar",
+    "knight"
+  ],
+  "huskarl": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "hussar": [
+    "pikeman",
+    "halberdier",
+    "two_handed_swordsman",
+    "champion"
+  ],
+  "hussite_wagon": [
+    "light_cavalry",
+    "hussar",
+    "knight"
+  ],
+  "imperial_camel_rider": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "imperial_skirmisher": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "jaguar_warrior": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "janissary": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "kamayuk": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "karambit_warrior": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "keshik": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "knight": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider",
+    "heavy_camel_rider",
+    "monk"
+  ],
+  "konnik": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "legionary": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "leitis": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "light_cavalry": [
+    "spearman",
+    "pikeman",
+    "long_swordsman",
+    "two_handed_swordsman"
+  ],
+  "long_swordsman": [
+    "crossbowman",
+    "arbalester",
+    "knight",
+    "cavalier"
+  ],
+  "longbowman": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "magyar_huszar": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "mameluke": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "man_at_arms": [
+    "archer",
+    "crossbowman",
+    "knight",
+    "cavalier"
+  ],
+  "mangonel": [
+    "knight",
+    "cavalier",
+    "light_cavalry",
+    "hussar",
+    "siege_ram"
+  ],
+  "mangudai": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "militia": [
+    "archer",
+    "crossbowman",
+    "knight",
+    "cavalier"
+  ],
+  "missionary": [
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "monaspa": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "monk": [
+    "scout_cavalry",
+    "light_cavalry",
+    "hussar",
+    "knight",
+    "cavalier"
+  ],
+  "obuch": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "onager": [
+    "knight",
+    "cavalier",
+    "paladin",
+    "hussar",
+    "siege_ram"
+  ],
+  "paladin": [
+    "pikeman",
+    "halberdier",
+    "heavy_camel_rider",
+    "monk"
+  ],
+  "pikeman": [
+    "knight",
+    "cavalier",
+    "paladin",
+    "scout_cavalry",
+    "light_cavalry",
+    "hussar",
+    "camel_rider",
+    "heavy_camel_rider"
+  ],
+  "plumed_archer": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "ratha": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "rattan_archer": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "samurai": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "scorpion": [
+    "knight",
+    "cavalier",
+    "hussar",
+    "mangonel",
+    "onager"
+  ],
+  "scout_cavalry": [
+    "spearman",
+    "pikeman",
+    "man_at_arms",
+    "long_swordsman"
+  ],
+  "serjeant": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "shotel_warrior": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "siege_onager": [
+    "light_cavalry",
+    "hussar",
+    "knight"
+  ],
+  "siege_ram": [
+    "mangonel",
+    "onager",
+    "champion",
+    "two_handed_swordsman"
+  ],
+  "siege_tower": [
+    "light_cavalry",
+    "hussar",
+    "knight"
+  ],
+  "skirmisher": [
+    "archer",
+    "crossbowman",
+    "arbalester",
+    "cavalry_archer",
+    "heavy_cav_archer"
+  ],
+  "slinger": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "spearman": [
+    "knight",
+    "cavalier",
+    "paladin",
+    "scout_cavalry",
+    "light_cavalry",
+    "hussar",
+    "camel_rider",
+    "heavy_camel_rider"
+  ],
+  "steppe_lancer": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "tarkan": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "teutonic_knight": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "throwing_axeman": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "trebuchet": [
+    "light_cavalry",
+    "hussar",
+    "knight"
+  ],
+  "two_handed_swordsman": [
+    "arbalester",
+    "cavalier",
+    "paladin",
+    "heavy_cav_archer"
+  ],
+  "urumi_swordsman": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ],
+  "war_elephant": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "war_wagon": [
+    "skirmisher",
+    "elite_skirmisher",
+    "scout_cavalry",
+    "light_cavalry"
+  ],
+  "winged_hussar": [
+    "spearman",
+    "pikeman",
+    "halberdier",
+    "camel_rider"
+  ],
+  "woad_raider": [
+    "archer",
+    "hand_cannoneer",
+    "scorpion"
+  ]
 }

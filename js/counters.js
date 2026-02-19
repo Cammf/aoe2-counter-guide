@@ -104,6 +104,45 @@ const CounterEngine = (() => {
   }
 
   /**
+   * Add extra commentary if a tech upgrade materially improves a counter.
+   * Lightweight heuristics (not a full simulator).
+   */
+  function techCommentary(candidate, enemy, civTech, techIndex, civId) {
+    if (!civTech || !techIndex || !civId) return null;
+    const civ = civTech[civId];
+    if (!civ || !Array.isArray(civ.techIds)) return null;
+
+    const hasTechByName = (name) => {
+      const want = name.toLowerCase();
+      return civ.techIds.some((id) => {
+        const t = techIndex[String(id)];
+        return t && t.name && t.name.toLowerCase() === want;
+      });
+    };
+
+    // Common cases where tech changes the *reliability* of a counter.
+    if (['skirmisher', 'elite_skirmisher', 'imperial_skirmisher'].includes(candidate.id)) {
+      if (hasTechByName('Bodkin Arrow') || hasTechByName('Bracer')) {
+        return 'With archer attack upgrades, skirmishers scale into a much stronger archer counter.';
+      }
+    }
+
+    if (['spearman', 'pikeman', 'halberdier'].includes(candidate.id)) {
+      if (hasTechByName('Pikeman') || hasTechByName('Halberdier')) {
+        return 'With spear-line upgrades, this becomes a significantly stronger cavalry counter.';
+      }
+    }
+
+    if (['light_cavalry', 'hussar', 'winged_hussar'].includes(candidate.id)) {
+      if (hasTechByName('Husbandry')) {
+        return 'Husbandry improves speed, making this counter more reliable at catching or escaping.';
+      }
+    }
+
+    return null;
+  }
+
+  /**
    * Get recommended counters.
    * @param {string} enemyUnitId - The unit to counter
    * @param {string} civId - The player's civilisation
@@ -113,7 +152,7 @@ const CounterEngine = (() => {
    * @param {number} limit - Max results
    * @returns {Array} Sorted counter recommendations
    */
-  function getCounters(enemyUnitId, civId, allUnits, allCivs, manualCounters, limit = 5) {
+  function getCounters(enemyUnitId, civId, allUnits, allCivs, manualCounters, limit = 5, civTech = null, techIndex = null) {
     const enemy = allUnits.find(u => u.id === enemyUnitId);
     const civ = allCivs.find(c => c.id === civId);
     if (!enemy || !civ) return [];
@@ -135,11 +174,14 @@ const CounterEngine = (() => {
         score += 25;
       }
 
+      const baseReason = buildReason(candidate, enemy);
+      const extra = techCommentary(candidate, enemy, civTech, techIndex, civId);
+
       results.push({
         unit: candidate,
         score: Math.round(score),
         bonusDamage: getBonusDamage(candidate, enemy),
-        reason: buildReason(candidate, enemy),
+        reason: extra ? `${baseReason} ${extra}` : baseReason,
       });
     }
 

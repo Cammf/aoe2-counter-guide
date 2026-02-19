@@ -5,10 +5,12 @@
 
 (async function () {
   // Load JSON data
-  const [units, civs, manualCounters] = await Promise.all([
+  const [units, civs, manualCounters, civTech, techIndex] = await Promise.all([
     fetch('data/units.json').then(r => r.json()),
     fetch('data/civilisations.json').then(r => r.json()),
     fetch('data/counters.json').then(r => r.json()),
+    fetch('data/civ_technologies.json').then(r => r.json()),
+    fetch('data/technologies.json').then(r => r.json()),
   ]);
 
   const civSelect = document.getElementById('civ-select');
@@ -98,7 +100,7 @@
       return;
     }
 
-    const counters = CounterEngine.getCounters(enemyId, civId, units, civs, manualCounters, 6);
+    const counters = CounterEngine.getCounters(enemyId, civId, units, civs, manualCounters, 6, civTech, techIndex);
 
     if (counters.length === 0) {
       resultsGrid.innerHTML = '<p style="color:var(--text-muted)">No strong counters found for this matchup with your civilisation.</p>';
@@ -120,7 +122,7 @@
         <div class="counter-card">
           <div class="card-header">
             <div class="unit-icon">
-              <img src="img/units/${u.id}.png" alt="${u.name}" onerror="this.style.display='none';this.parentElement.textContent='${icon}'">
+              <img src="assets/units/${u.id}.png" alt="${u.name}" onerror="this.style.display='none';this.parentElement.textContent='${icon}'">
             </div>
             <div>
               <div class="unit-name">${u.name}${rank}</div>
